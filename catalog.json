@@ -1,0 +1,26 @@
+[
+  {
+    "id": "jph",
+    "name": "日本史",
+    "description": "旧石器時代から現代までを網羅。",
+    "downloadUrl": "https://raw.githubusercontent.com/sakana0605/tumiage/main/japanese_history.json",
+    "totalCount": 367,
+    "sizeKb": 180
+  },
+  {
+    "id": "wh",
+    "name": "世界史",
+    "description": "世界の主要な歴史事項を網羅。",
+    "downloadUrl": "https://raw.githubusercontent.com/sakana0605/tumiage/main/world_history.json",
+    "totalCount": 520,
+    "sizeKb": 250
+  },
+  {
+    "id": "geo",
+    "name": "地理",
+    "description": "世界の国々、気候、地形などの基礎知識。",
+    "downloadUrl": "https://raw.githubusercontent.com/sakana0605/tumiage/main/geography.json",
+    "totalCount": 345,
+    "sizeKb": 160
+  }
+]
