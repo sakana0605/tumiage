@@ -1,0 +1,4487 @@
+[
+  {
+    "id": "geo_001",
+    "subject": "地理",
+    "headline": "熱帯は最寒月平均気温が18℃以上である。",
+    "detailText": "ケッペンの熱帯は最寒月平均気温が18℃以上で、一年中高温である。雨温図では気温線が高い位置でほぼ水平になりやすく、降水の季節差で熱帯雨林・熱帯モンスーン・サバナを区別する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_002",
+    "subject": "地理",
+    "headline": "熱帯雨林気候は年中高温多雨で気温年較差が小さい。",
+    "detailText": "熱帯雨林気候は赤道付近に多く、アマゾン盆地・コンゴ盆地・東南アジア島しょ部が代表例である。毎月の降水量が多く乾季が目立たず、常緑広葉樹林が発達する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_003",
+    "subject": "地理",
+    "headline": "サバナ気候は雨季と乾季の差で判定する。",
+    "detailText": "サバナ気候は年中高温だが、赤道低圧帯の移動により雨季と乾季が明瞭になる。草原とまばらな樹木が広がり、アフリカやブラジル高原などで見られる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_004",
+    "subject": "地理",
+    "headline": "熱帯モンスーン気候は短い乾季と強い雨季をもつ。",
+    "detailText": "熱帯モンスーン気候は季節風の影響で雨季の降水が非常に多く、短い乾季をもつ。南アジア・東南アジアの水田稲作や人口集中と関係する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_005",
+    "subject": "地理",
+    "headline": "乾燥帯は降水量だけでなく蒸発量との関係で決まる。",
+    "detailText": "乾燥帯は降水が少ないだけでなく、蒸発散量が大きいため水不足になりやすい。砂漠気候とステップ気候は降水量・植生・土地利用に差が出る。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_006",
+    "subject": "地理",
+    "headline": "砂漠気候は植生が乏しく年降水量が少ない。",
+    "detailText": "砂漠気候はサハラ・アラビア半島・オーストラリア内陸などに広がる。成因は亜熱帯高圧帯、寒流、雨陰、内陸性など複数ある。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_007",
+    "subject": "地理",
+    "headline": "ステップ気候は砂漠より雨が多い短草草原である。",
+    "detailText": "ステップは砂漠周辺や大陸内部に広がる短草草原で、放牧や企業的穀物農業と関係する。中央アジアや北米内陸部に分布する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_008",
+    "subject": "地理",
+    "headline": "温帯は最寒月平均気温が-3℃以上18℃未満である。",
+    "detailText": "温帯は寒帯ほど寒くなく、農業・都市・人口が集中する地域も多い。西岸海洋性、温暖湿潤、地中海性では降水の季節変化が異なる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_009",
+    "subject": "地理",
+    "headline": "地中海性気候は夏乾燥・冬雨が最大の目印である。",
+    "detailText": "地中海性気候は夏に亜熱帯高圧帯、冬に偏西風や低気圧の影響を受ける。オリーブ・ぶどう・小麦などの地中海式農業と関係する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_010",
+    "subject": "地理",
+    "headline": "西岸海洋性気候は偏西風と暖流で冬が温和である。",
+    "detailText": "西岸海洋性気候は中緯度の大陸西岸に多く、偏西風と暖流の影響で年較差が小さい。西ヨーロッパやニュージーランドでは、緯度のわりに冬が温和で降水が年中分散しやすい。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_011",
+    "subject": "地理",
+    "headline": "温暖湿潤気候は大陸東岸に多く夏に高温多雨となる。",
+    "detailText": "温暖湿潤気候は日本の本州以南、中国南部、アメリカ南東部などに見られる。夏の高温多雨は稲作や多様な作物栽培と関係する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_012",
+    "subject": "地理",
+    "headline": "冷帯は最寒月が-3℃未満で最暖月が10℃以上である。",
+    "detailText": "冷帯は北半球の高緯度大陸内部に広く、冬が長く厳しいため気温年較差が大きい。南半球では同緯度に大陸が少なく分布が限られる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_013",
+    "subject": "地理",
+    "headline": "タイガは冷帯に広がる針葉樹林である。",
+    "detailText": "タイガはシベリアやカナダに広がる針葉樹林で、木材・紙・パルプ産業と関係する。シベリア・カナダでは木材資源や紙・パルプ産業の基盤にもなる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_014",
+    "subject": "地理",
+    "headline": "寒帯は最暖月平均気温が10℃未満で樹木が育ちにくい。",
+    "detailText": "寒帯はツンドラ気候と氷雪気候に分かれ、夏でも気温が低い。樹木が育ちにくく、農業・交通・居住・資源開発に強い制約がある。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_015",
+    "subject": "地理",
+    "headline": "ツンドラ気候は短い夏に永久凍土の表層が融ける。",
+    "detailText": "ツンドラは最暖月平均気温が0℃以上10℃未満で、短い夏に永久凍土の表層が融ける。コケ類や草本が育ち、開発では地盤の不安定化が問題になる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_016",
+    "subject": "地理",
+    "headline": "氷雪気候は最暖月平均気温が0℃未満である。",
+    "detailText": "氷雪気候は南極大陸やグリーンランド内陸部に見られ、植生はほとんど成立しない。雨温図では全月で気温が0℃未満になりやすい。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_017",
+    "subject": "地理",
+    "headline": "雨温図は気温年較差・降水季節差・南北半球を読む。",
+    "detailText": "雨温図では最暖月・最寒月・降水の多い季節が重要である。気温の山が7〜8月なら北半球、1〜2月なら南半球の可能性が高い。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_018",
+    "subject": "地理",
+    "headline": "南半球の雨温図は1月前後に気温が高くなる。",
+    "detailText": "南半球は北半球と季節が逆で、雨温図では1月前後に気温が高くなりやすい。オーストラリア、南米南部、南アフリカなどで典型的に現れる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_019",
+    "subject": "地理",
+    "headline": "赤道付近は太陽高度が高く気温年較差が小さい。",
+    "detailText": "赤道付近では一年を通じて高温で、気温線がほぼ水平になりやすい。降水の多さや乾季の有無で熱帯雨林・サバナなどを見分ける。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_020",
+    "subject": "地理",
+    "headline": "内陸部は海の影響が弱く気温年較差が大きい。",
+    "detailText": "内陸性気候では海の影響が弱く、夏は暑く冬は寒くなりやすい。ユーラシア大陸内部や北米内陸では気温年較差が大きくなる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_021",
+    "subject": "地理",
+    "headline": "海洋性気候は海の影響で気温年較差が小さい。",
+    "detailText": "海は陸より温まりにくく冷めにくいため、沿岸部では気温年較差が小さくなりやすい。島国や西岸海洋性気候では冬の寒さが和らぐ。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_022",
+    "subject": "地理",
+    "headline": "高山気候は標高による気温低下で低緯度でも冷涼になる。",
+    "detailText": "標高が上がると気温が下がるため、アンデスや東アフリカ高原では低緯度でも比較的冷涼な都市が成立する。ケッペンのA〜Eとは別の要因として扱う。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_023",
+    "subject": "地理",
+    "headline": "植生は気温と降水量の組み合わせを反映する。",
+    "detailText": "熱帯雨林・サバナ・ステップ・砂漠・タイガ・ツンドラは、気温と降水量の違いを反映する。植生は農業、牧畜、林業の地域差にもつながる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_024",
+    "subject": "地理",
+    "headline": "森林限界は低温で樹木が育たなくなる境界である。",
+    "detailText": "森林限界は高緯度や高山で現れる。標高や緯度が高く気温が下がると、森林から草地・ツンドラへ植生が変化する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_025",
+    "subject": "地理",
+    "headline": "乾燥限界は高温ほど高い降水量を必要とする。",
+    "detailText": "同じ降水量でも高温地域は蒸発散が大きく乾燥しやすい。乾燥帯の判定では、降水量だけでなく気温や蒸発量も区別する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_026",
+    "subject": "地理",
+    "headline": "夏乾燥は地中海性気候を見分ける最重要ポイントである。",
+    "detailText": "気温が高い季節に降水が少なく、冬に降水が増える気候は地中海性気候である。南半球では夏乾燥の月が北半球と逆になる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_027",
+    "subject": "地理",
+    "headline": "冬乾燥は季節風地域の雨温図でよく出る。",
+    "detailText": "冬は大陸から乾いた風が吹き、夏は海から湿った風が吹くため、東アジアや南アジアでは夏雨・冬乾燥になりやすい。雨温図では、気温が高い季節に降水が集中し、低温の季節に降水が少ない形として現れる。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_028",
+    "subject": "地理",
+    "headline": "熱帯高地は高温多湿を避けて都市が立地しやすい。",
+    "detailText": "低緯度でも標高が高い地域は冷涼で、アンデス高地や東アフリカ高原では都市や農業が成立しやすい。緯度だけでなく標高が気温を左右する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_029",
+    "subject": "地理",
+    "headline": "砂漠の外側にはステップが帯状に広がりやすい。",
+    "detailText": "乾燥の中心部は砂漠、その周辺ではやや降水が増えてステップになることが多い。砂漠から草原へ、植生と土地利用が連続的に変化する。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_030",
+    "subject": "地理",
+    "headline": "気候は農業・住居・人口分布を左右する基本条件である。",
+    "detailText": "高温多雨なら稲作、乾燥地域なら灌漑や遊牧、冷帯なら林業など、人間活動は気候制約を受ける。気候を学ぶときは、気温・降水・植生・農業・居住条件を一続きの関係として整理すると理解しやすい。",
+    "tags": [
+      "気候",
+      "ケッペン"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_031",
+    "subject": "地理",
+    "headline": "寒流沿岸では大気が安定し、沿岸砂漠や霧が生じやすい。",
+    "detailText": "寒流は海面付近の空気を冷やして大気を安定させるため、雨雲が発達しにくい。ペルー・ベンゲラ・カナリア・カリフォルニア海流が代表例である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_032",
+    "subject": "地理",
+    "headline": "暖流沿岸は温暖で湿った空気を受けやすい。",
+    "detailText": "暖流は沿岸を温め、水蒸気を供給しやすい。北大西洋海流が西ヨーロッパを高緯度のわりに温和にする例は重要である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_033",
+    "subject": "地理",
+    "headline": "ペルー海流は南米西岸を北上する寒流である。",
+    "detailText": "ペルー海流はアタカマ砂漠の乾燥やペルー沖の好漁場と関係する。湧昇流により栄養塩が供給され、アンチョビーなどの漁獲量変動にも影響する。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_034",
+    "subject": "地理",
+    "headline": "ベンゲラ海流はアフリカ南西岸のナミブ砂漠と関係する。",
+    "detailText": "ベンゲラ海流はアフリカ南西岸を北上する寒流で、沿岸大気を安定させる。ナミブ砂漠の乾燥と、冷たい海水上で生じる沿岸の霧をもたらす。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_035",
+    "subject": "地理",
+    "headline": "カナリア海流は北西アフリカ沿岸を南下する寒流である。",
+    "detailText": "カナリア海流は北西アフリカ沿岸を南下する寒流で、サハラ西部の乾燥やモロッコ沖の漁場と関係する。寒流沿岸の乾燥を示す代表例で、同じ型にペルー海流やベンゲラ海流がある。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_036",
+    "subject": "地理",
+    "headline": "カリフォルニア海流は北米西岸を南下する寒流である。",
+    "detailText": "カリフォルニア海流は北米西岸の乾燥や霧と関係する。ロサンゼルス周辺の地中海性気候や沿岸乾燥の理解にも関係する。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_037",
+    "subject": "地理",
+    "headline": "北大西洋海流は西ヨーロッパの冬を温和にする。",
+    "detailText": "北大西洋海流と偏西風の組み合わせにより、西ヨーロッパは高緯度でも比較的温暖で年較差が小さい。西岸海洋性気候の理由として重要である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_038",
+    "subject": "地理",
+    "headline": "黒潮は日本の太平洋側を北上する暖流である。",
+    "detailText": "黒潮は日本南岸を流れ、沿岸気候や漁場に影響する。親潮との潮目はプランクトンが集まりやすく、好漁場になりやすい。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_039",
+    "subject": "地理",
+    "headline": "親潮は日本北東沖を南下する寒流である。",
+    "detailText": "親潮は千島列島方面から南下し、栄養塩に富む海水をもたらす。黒潮との潮目が三陸沖の好漁場と関係する。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_040",
+    "subject": "地理",
+    "headline": "潮目は暖流と寒流が出会う好漁場になりやすい。",
+    "detailText": "潮目では水温や栄養塩の異なる海水が混ざり、プランクトンが増えやすい。日本近海では黒潮と親潮の関係が代表例である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_041",
+    "subject": "地理",
+    "headline": "偏西風は中緯度で西から東へ吹く恒常風である。",
+    "detailText": "偏西風は西ヨーロッパの海洋性気候、天気の移動方向、航空路の追い風・向かい風の理解に関係する。北半球では偏西風の影響で天気が西から東へ移動しやすく、大陸西岸の気候にも強く関わる。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_042",
+    "subject": "地理",
+    "headline": "貿易風は低緯度で東寄りに吹く恒常風である。",
+    "detailText": "貿易風は亜熱帯高圧帯から赤道低圧帯へ向かう風で、熱帯の降水分布や海流の形成に関係する。北半球では北東貿易風、南半球では南東貿易風になる。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_043",
+    "subject": "地理",
+    "headline": "季節風は大陸と海洋の温度差で風向が季節変化する。",
+    "detailText": "夏は海から大陸へ湿った風、冬は大陸から海へ乾いた風が吹きやすい。南アジア・東アジアの雨季・乾季や稲作と結びつく。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_044",
+    "subject": "地理",
+    "headline": "南西季節風は南アジアに夏の多雨をもたらす。",
+    "detailText": "夏の南アジアではインド洋から湿った南西季節風が吹き、インドやバングラデシュの雨季をつくる。この雨は稲作を支える一方、ガンジス・ブラマプトラ川流域などで洪水を起こす。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_045",
+    "subject": "地理",
+    "headline": "冬の季節風は大陸から乾いた風を吹かせる。",
+    "detailText": "冬は大陸高圧部から海へ向かう乾いた風になりやすい。ただし日本海側では海上で水蒸気を得て山地にぶつかり、大雪をもたらす。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_046",
+    "subject": "地理",
+    "headline": "上昇気流は空気を冷却させ、雲や雨を発生させる。",
+    "detailText": "空気が上昇すると断熱膨張で冷え、水蒸気が凝結して雲ができる。赤道低圧帯・地形性降雨・低気圧の降水を説明する基本原理である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_047",
+    "subject": "地理",
+    "headline": "地形性降雨は山の風上側で多くなる。",
+    "detailText": "湿った空気が山にぶつかって上昇し、風上側で雨を降らせる。風下側は水分を失った空気が下降して乾燥し、雨陰ができる。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_048",
+    "subject": "地理",
+    "headline": "雨陰は山脈の風下側に乾燥地域をつくる。",
+    "detailText": "山を越えた空気は水分を失い、下降時に温まって乾燥する。アンデス東西やヒマラヤ周辺など、山脈と降水分布を結びつける問題で関係する。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_049",
+    "subject": "地理",
+    "headline": "亜熱帯高圧帯では下降気流で雲ができにくい。",
+    "detailText": "亜熱帯高圧帯はおよそ南北緯20〜30度付近に現れ、サハラ・アラビア・オーストラリア内陸などの砂漠形成に関係する。下降気流で空気が圧縮されて温まり、水蒸気が凝結しにくくなることが乾燥の理由である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_050",
+    "subject": "地理",
+    "headline": "赤道低圧帯では上昇気流により対流性降雨が多い。",
+    "detailText": "赤道付近は強い日射で空気が上昇しやすく、スコールなどの降水が多い。熱帯雨林気候の成因として重要である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_051",
+    "subject": "地理",
+    "headline": "フェーン現象は山の風下側を高温乾燥にする。",
+    "detailText": "湿った空気が山を越える過程で雨を降らせ、風下側で乾いた空気が下降して気温が上がる。日本の日本海側から太平洋側への風でも例が出る。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_052",
+    "subject": "地理",
+    "headline": "エルニーニョは太平洋赤道域東部の海面水温上昇である。",
+    "detailText": "エルニーニョ現象では貿易風や湧昇流が弱まり、世界各地の降水・気温に影響することがある。ペルー沖の漁獲変動とも関連する。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_053",
+    "subject": "地理",
+    "headline": "湧昇流は深層の栄養塩を表層へ運び好漁場をつくる。",
+    "detailText": "湧昇流は沿岸で表層水が沖へ流されたときなどに起こる。ペルー沖やカナリア海流沿岸の漁場理解に重要である。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_054",
+    "subject": "地理",
+    "headline": "台風は北西太平洋で発達する強い熱帯低気圧である。",
+    "detailText": "台風は暖かい海面から水蒸気と熱を得て発達し、暴風・高潮・大雨をもたらす。防災問題では進路だけでなく地形や人口分布も示す。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_055",
+    "subject": "地理",
+    "headline": "砂漠の成因は高圧帯・寒流・雨陰・内陸性に分ける。",
+    "detailText": "サハラは亜熱帯高圧帯、アタカマやナミブは寒流、中央アジアは内陸性、山脈の風下は雨陰が重要である。砂漠は、下降気流・寒流・雨陰・内陸性という複数の乾燥要因で形成される。",
+    "tags": [
+      "大気・海流",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_056",
+    "subject": "地理",
+    "headline": "扇状地は水はけがよく果樹園や畑に利用されやすい。",
+    "detailText": "扇状地は山地から平地へ出た川が砂礫を扇形に堆積させた地形である。扇央は水が地下へしみ込みやすく、扇端では湧水が見られやすい。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_057",
+    "subject": "地理",
+    "headline": "三角州は河口で細粒の土砂が堆積した低平地である。",
+    "detailText": "三角州は河口で流速が落ち、土砂がたまって形成される。水田や都市に利用されるが、洪水・高潮・液状化などのリスクも高い。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_058",
+    "subject": "地理",
+    "headline": "自然堤防は河川沿いにできる微高地で集落が立地しやすい。",
+    "detailText": "洪水時に河川近くへ粗い土砂が堆積して自然堤防ができる。周囲より少し高く水はけがよいため、集落や畑に利用されやすい。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_059",
+    "subject": "地理",
+    "headline": "後背湿地は自然堤防の背後にある排水の悪い低地である。",
+    "detailText": "後背湿地は細かい泥がたまりやすく、低湿で水田に利用されやすい。洪水時には浸水しやすいため、防災地図でも重要である。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_060",
+    "subject": "地理",
+    "headline": "河岸段丘は川の侵食と地盤隆起などでできる階段状地形である。",
+    "detailText": "河岸段丘は川沿いの平坦面と段丘崖からなる。地形図では等高線の間隔や段差を読み、集落・畑・交通路の立地と関係する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_061",
+    "subject": "地理",
+    "headline": "蛇行河川は外側を侵食し内側に堆積する。",
+    "detailText": "平野を流れる川は曲流し、外側では侵食、内側では砂礫の堆積が進む。蛇行が切断されると三日月湖ができる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_062",
+    "subject": "地理",
+    "headline": "三日月湖は蛇行河川の流路が切り離されてできる。",
+    "detailText": "蛇行が進み、洪水などでショートカットが起こると旧流路が取り残される。地図や空中写真では弧状の湖として判別できる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_063",
+    "subject": "地理",
+    "headline": "谷底平野は山地の谷沿いに細長く発達する低地である。",
+    "detailText": "谷底平野は河川の堆積ででき、集落や交通路が集中しやすい。山地内部では集落・水田・道路がこの細長い低地に集中しやすい。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_064",
+    "subject": "地理",
+    "headline": "沖積平野は新しい堆積物でできた低地で水害リスクが高い。",
+    "detailText": "沖積平野は河川が運んだ新しい土砂で形成され、農業・都市に利用される。低平で軟弱な地盤が多く、洪水や液状化に注意する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_065",
+    "subject": "地理",
+    "headline": "洪積台地は沖積低地より古く高い平坦面である。",
+    "detailText": "洪積台地は低地より水害を受けにくく、畑や住宅地に利用されやすい。関東ローム層のような火山灰に覆われる台地もある。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_066",
+    "subject": "地理",
+    "headline": "リアス海岸は山地の谷が沈水した入り組んだ海岸である。",
+    "detailText": "リアス海岸は湾が深く入り込み、漁港や養殖に利用されやすい。一方で津波が湾奥で高くなりやすい点も重要である。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_067",
+    "subject": "地理",
+    "headline": "フィヨルドは氷河が削ったU字谷に海水が入った地形である。",
+    "detailText": "フィヨルドはノルウェーやニュージーランド南島などの高緯度・氷河地域に見られる。谷壁が急で水深が深いことが多い。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_068",
+    "subject": "地理",
+    "headline": "砂州は沿岸流が砂を細長く堆積させてできる。",
+    "detailText": "砂州や砂嘴が湾口をふさぐと、内側に潟湖ができることがある。沿岸流の向きと砂の堆積を図で読めるようにする。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_069",
+    "subject": "地理",
+    "headline": "潟湖は砂州や砂嘴で海から隔てられた浅い湖である。",
+    "detailText": "潟湖は沿岸地形の模式図で重要である。日本ではサロマ湖や浜名湖などが例として扱われることがある。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_070",
+    "subject": "地理",
+    "headline": "海岸段丘は地盤隆起や海面変化を示す階段状地形である。",
+    "detailText": "海岸段丘は海岸沿いの平坦面と崖からなる。過去の海食面が隆起して残ったものとして、地殻変動の証拠になる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_071",
+    "subject": "地理",
+    "headline": "U字谷は氷河が谷を広く深く削ってできる。",
+    "detailText": "氷河は谷底と谷壁を削り、断面がU字形の谷をつくる。河川侵食でできるV字谷との比較が重要である。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_072",
+    "subject": "地理",
+    "headline": "モレーンは氷河が運んだ岩屑の堆積物である。",
+    "detailText": "モレーンは氷河の末端や側面にできる堆積地形である。氷河地形では侵食地形のU字谷・カールと、堆積地形のモレーンを分ける。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_073",
+    "subject": "地理",
+    "headline": "カールは山腹を氷河が削った半円形のくぼ地である。",
+    "detailText": "カールは圏谷とも呼ばれ、日本アルプスなどの高山地形で見られる。地形図では山稜近くの椀状地形として判別する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_074",
+    "subject": "地理",
+    "headline": "カルスト地形は石灰岩が雨水や地下水で溶食されてできる。",
+    "detailText": "カルスト地形ではドリーネ・鍾乳洞・鍾乳石などが見られる。石灰岩は二酸化炭素を含む水に溶けやすく、地下水の作用を受けやすい。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_075",
+    "subject": "地理",
+    "headline": "ドリーネはカルスト台地に見られるすり鉢状のくぼ地である。",
+    "detailText": "ドリーネは石灰岩の溶食や陥没でできる。秋吉台のような石灰岩地域では、地下排水と鍾乳洞の発達にもつながる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_076",
+    "subject": "地理",
+    "headline": "鍾乳洞は石灰岩が地下水で溶けてできる洞窟である。",
+    "detailText": "鍾乳洞では鍾乳石・石筍・石柱が形成される。秋吉台のような石灰岩地域では、地表のドリーネと地下の鍾乳洞が同じ溶食作用でつながる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_077",
+    "subject": "地理",
+    "headline": "カルデラは大規模噴火や陥没でできる大きなくぼ地である。",
+    "detailText": "カルデラは阿蘇・十和田・屈斜路などで見られる。火山地形では火口より大きなくぼ地として分類される。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_078",
+    "subject": "地理",
+    "headline": "火山灰台地は水はけがよく畑作に利用されやすい。",
+    "detailText": "火山灰が厚く積もった台地では水はけがよく、水田より畑作や酪農に利用されることがある。関東ローム層が代表例である。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_079",
+    "subject": "地理",
+    "headline": "扇端では地下水が湧き、集落が並びやすい。",
+    "detailText": "扇状地では扇央で水が伏流し、扇端で湧水として現れやすい。地形図では扇端に集落や水路が並ぶことがある。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_080",
+    "subject": "地理",
+    "headline": "三角州は低平なため洪水・高潮・液状化に注意する。",
+    "detailText": "デルタは農業や都市に利用されやすいが、海面上昇や高潮の影響も受けやすい。バングラデシュやナイルデルタのように人口密度の高いデルタでは被害が大きくなりやすい。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_081",
+    "subject": "地理",
+    "headline": "環太平洋造山帯は地震・火山活動が活発である。",
+    "detailText": "太平洋を取り囲むプレート境界に沿い、日本・アンデス・北米西岸などが含まれる。地震・火山・津波の分布と対応させる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_082",
+    "subject": "地理",
+    "headline": "アルプス・ヒマラヤ造山帯は大陸衝突やプレート境界と関係する。",
+    "detailText": "アルプスからヒマラヤにかけての新期造山帯で、山脈や地震が多い。環太平洋造山帯と並ぶ重要な造山帯である。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_083",
+    "subject": "地理",
+    "headline": "ヒマラヤ山脈はインドプレートとユーラシアプレートの衝突で形成された。",
+    "detailText": "大陸プレート同士の衝突により、海洋プレートの沈み込み型とは異なる巨大山脈が形成された。チベット高原やモンスーンにも関係する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_084",
+    "subject": "地理",
+    "headline": "アンデス山脈はナスカプレートの沈み込みで形成された。",
+    "detailText": "南米西岸では海洋プレートが大陸プレートの下に沈み込み、山脈・火山・地震が生じる。銅資源や高山気候とも結びつく。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_085",
+    "subject": "地理",
+    "headline": "盆地は寒暖差や霧、空気の停滞が起こりやすい。",
+    "detailText": "盆地は周囲を山地に囲まれた低地で、内陸性が強まりやすい。京都盆地や甲府盆地のように果樹栽培や都市立地の説明にも関係する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_086",
+    "subject": "地理",
+    "headline": "大陸棚は浅くなだらかな海底で漁場や資源開発に関係する。",
+    "detailText": "大陸棚は沿岸から続く浅い海底で、光が届きやすく漁場になりやすい。海底油田・天然ガス開発とも関係する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_087",
+    "subject": "地理",
+    "headline": "砂丘は風で運ばれた砂が堆積してできる。",
+    "detailText": "砂丘は乾燥地域や海岸に形成される。風向、砂の供給、植生の有無により形や移動が変わる。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_088",
+    "subject": "地理",
+    "headline": "ワジは乾燥地域で降雨時だけ水が流れる河道である。",
+    "detailText": "ワジは普段は水が流れないが、豪雨時に急に水が流れる。乾燥地域の集落立地や洪水災害の理解に関係する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_089",
+    "subject": "地理",
+    "headline": "液状化は水を含む砂質地盤が地震で液体状になる現象である。",
+    "detailText": "液状化は埋立地・三角州・沖積低地などで起こりやすい。地下水を含むゆるい砂層が揺れで支持力を失うため、建物や道路の沈下を招く。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_090",
+    "subject": "地理",
+    "headline": "津波は海底地震などで海水が大きく動いて生じる長波である。",
+    "detailText": "津波はリアス海岸や湾奥で波高が大きくなることがある。低地の人口分布・避難場所・海岸地形と合わせて区別する。",
+    "tags": [
+      "地形",
+      "地理"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_091",
+    "subject": "地理",
+    "headline": "稲作は高温多雨のモンスーンアジアで集約的に発達する。",
+    "detailText": "水田稲作は多くの水と労働力を必要とし、人口密度の高いモンスーンアジアで発達した。雨季・灌漑・河川低地が稲作を支える。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_092",
+    "subject": "地理",
+    "headline": "小麦は米より乾燥・冷涼に強く、温帯内陸で広く栽培される。",
+    "detailText": "小麦は企業的穀物農業や混合農業で重要な作物である。アメリカ・カナダ・オーストラリア・ヨーロッパ・黒海周辺などが重要である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_093",
+    "subject": "地理",
+    "headline": "トウモロコシは食料・飼料・バイオ燃料に使われる。",
+    "detailText": "トウモロコシはアメリカのコーンベルトが代表的で、畜産やエタノール生産とも関係する。アメリカでは家畜飼料とエタノール原料としての需要が大きい。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_094",
+    "subject": "地理",
+    "headline": "大豆は油脂・豆製品・飼料に使われ、米国とブラジルが重要である。",
+    "detailText": "大豆は家畜飼料や食用油の原料として需要が大きい。ブラジルでは石灰投入や品種改良によりセラードで大豆栽培が拡大した。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_095",
+    "subject": "地理",
+    "headline": "コーヒーは熱帯高地で栽培されやすい商品作物である。",
+    "detailText": "コーヒーはブラジル・ベトナム・コロンビアなどが重要で、プランテーションや小農経営と関係する。低緯度でも高地の冷涼さが栽培に適する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_096",
+    "subject": "地理",
+    "headline": "カカオは高温多湿な赤道付近で栽培されやすい。",
+    "detailText": "カカオは西アフリカのコートジボワール・ガーナなどが重要で、チョコレート原料になる。輸出が少数作物に偏るため、価格変動や児童労働などの問題と結びつく。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_097",
+    "subject": "地理",
+    "headline": "茶は温暖湿潤な地域や高地で栽培されやすい。",
+    "detailText": "茶は中国・インド・スリランカ・ケニア・日本などで栽培される。高温多雨だけでなく排水や霧の多い斜面も関係する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_098",
+    "subject": "地理",
+    "headline": "綿花は生育期の水と収穫期の乾燥が重要である。",
+    "detailText": "綿花は温暖な地域で栽培され、生育期には水、収穫期には乾燥が必要である。アメリカ南部、インド、中国、中央アジアで重要である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_099",
+    "subject": "地理",
+    "headline": "サトウキビは高温多雨地域の代表的な糖料作物である。",
+    "detailText": "サトウキビはブラジル・インド・東南アジアなどで多く、砂糖やバイオエタノールの原料になる。高温多雨の熱帯・亜熱帯に適する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_100",
+    "subject": "地理",
+    "headline": "テンサイは冷涼地域で栽培される糖料作物である。",
+    "detailText": "テンサイはヨーロッパや北海道など冷涼な地域で栽培される。サトウキビが高温地域、テンサイが冷涼地域という対比が重要である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_101",
+    "subject": "地理",
+    "headline": "地中海式農業は夏乾燥に適応した果樹と冬作の小麦が中心である。",
+    "detailText": "オリーブ・ぶどう・柑橘類などの樹木作物と、冬の雨を利用する小麦栽培が特徴である。地中海性気候の雨温図と関係する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_102",
+    "subject": "地理",
+    "headline": "プランテーションは熱帯の商品作物を大規模に栽培する農業である。",
+    "detailText": "天然ゴム・油やし・カカオ・茶・コーヒーなどが代表的で、輸出向け単一作物になりやすい。植民地支配の歴史やモノカルチャーと関係する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_103",
+    "subject": "地理",
+    "headline": "焼畑は森林を焼いて灰を肥料にし、数年後に移動する農業である。",
+    "detailText": "熱帯の伝統的農業で、焼いた灰を肥料にして短期間栽培する。人口増加で休閑期間が短くなると、土壌劣化や森林減少につながることがある。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_104",
+    "subject": "地理",
+    "headline": "遊牧は乾燥地域で家畜を連れて移動する牧畜である。",
+    "detailText": "遊牧は降水量が少なく耕作が難しい地域で、羊・やぎ・ラクダなどを連れて移動する牧畜である。オアシス農業や定住化政策とも関係する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_105",
+    "subject": "地理",
+    "headline": "酪農は大都市市場に近い冷涼湿潤地域で発達しやすい。",
+    "detailText": "牛乳や乳製品は鮮度や輸送が重要なため、市場への近さが立地に関係する。西ヨーロッパ、北海道、ニュージーランドなどが例になる。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_106",
+    "subject": "地理",
+    "headline": "混合農業は穀物栽培と家畜飼育を組み合わせる。",
+    "detailText": "ヨーロッパや北米東部などで見られ、穀物栽培と家畜飼育が同じ農場や地域で結びつく。飼料作物が豚や牛の飼育を支える。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_107",
+    "subject": "地理",
+    "headline": "企業的穀物農業は広大な土地と機械化で小麦などを栽培する。",
+    "detailText": "アメリカ・カナダ・オーストラリアなどの人口密度が低い地域で発達した。労働力より機械・資本・土地の広さが重要である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_108",
+    "subject": "地理",
+    "headline": "企業的牧畜は広大な草地で肉牛や羊を大規模に飼育する。",
+    "detailText": "アメリカ西部、オーストラリア、アルゼンチンなどで見られる。国内市場や輸出市場向けの商業的畜産である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_109",
+    "subject": "地理",
+    "headline": "園芸農業は都市近郊や輸送条件のよい地域で発達する。",
+    "detailText": "野菜・果物・花などを集約的に栽培し、鮮度と市場への近さが重要である。オランダの施設園芸や近郊農業が重要である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_110",
+    "subject": "地理",
+    "headline": "灌漑農業は乾燥地域の農業を可能にするが塩害を招くことがある。",
+    "detailText": "河川や地下水を利用して作物を育てる。蒸発が強い地域では土壌表面に塩分が集まり、塩害が発生しやすい。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_111",
+    "subject": "地理",
+    "headline": "塩害は乾燥地域の灌漑で土壌に塩分が集まる問題である。",
+    "detailText": "排水が悪い灌漑地では水分が蒸発し、塩分が地表に残る。中央アジアや乾燥地域の農業問題として重要である。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_112",
+    "subject": "地理",
+    "headline": "モノカルチャーは単一作物依存で価格変動に弱い。",
+    "detailText": "カカオ・コーヒー・天然ゴムなどの輸出に依存すると、国際価格の下落や不作が経済に大きく影響する。ガーナのカカオ、エチオピアのコーヒーのように、特定作物の価格が国民経済を左右する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_113",
+    "subject": "地理",
+    "headline": "緑の革命は高収量品種・灌漑・化学肥料で穀物生産を増やした。",
+    "detailText": "アジアの米や小麦の増産に貢献したが、肥料・農薬・灌漑設備を使える農家との格差や環境負荷も問題になった。増産の背景には品種改良だけでなく、水管理、投入財、農業技術の普及がそろったことがある。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_114",
+    "subject": "地理",
+    "headline": "食料自給率は国内消費を国内生産でどれだけ賄うかを示す。",
+    "detailText": "日本は穀物や飼料を輸入に依存するため、カロリーベースの食料自給率が低くなりやすい。統計では品目別にも示す。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_115",
+    "subject": "地理",
+    "headline": "フードマイレージは食料の輸送量と輸送距離から環境負荷を考える指標である。",
+    "detailText": "遠くから大量に食料を輸入すると輸送エネルギーが大きくなる。地産地消や輸入依存の問題と関係する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_116",
+    "subject": "地理",
+    "headline": "アメリカ農業は適地適作と大規模機械化が特徴である。",
+    "detailText": "コーンベルト、小麦地帯、酪農地帯、綿花地帯など、気候・土壌・市場に応じた農業地域が形成される。農業地域を覚えるときは、作物名だけでなく、気候・土壌・市場距離・機械化を合わせて整理する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_117",
+    "subject": "地理",
+    "headline": "ブラジル農業はセラード開発で大豆・肉牛生産が拡大した。",
+    "detailText": "ブラジルは大豆、コーヒー、サトウキビ、肉牛などが重要である。アマゾンやセラードの開発により、輸出農業の拡大と森林・生態系への負荷が同時に進んだ。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_118",
+    "subject": "地理",
+    "headline": "オランダ農業は施設園芸と酪農で高い生産性をもつ。",
+    "detailText": "国土は小さいが、温室栽培・花卉・野菜・酪農が発達し、ロッテルダム港など物流条件も有効である。狭い国土でも、施設栽培、品種改良、物流、輸出市場を組み合わせることで高付加価値農業が成立する。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_119",
+    "subject": "地理",
+    "headline": "油やしは東南アジアの熱帯地域で大規模に栽培される。",
+    "detailText": "パーム油の原料で、インドネシアやマレーシアが重要である。森林破壊や泥炭地開発など環境問題と結びつく。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_120",
+    "subject": "地理",
+    "headline": "天然ゴムは高温多湿な東南アジアで生産が多い。",
+    "detailText": "天然ゴムはタイ・インドネシア・マレーシアなどが重要で、自動車タイヤなどに使われる。プランテーション作物として分類される。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_121",
+    "subject": "地理",
+    "headline": "鉄鉱石は製鉄原料で、オーストラリアとブラジルが重要産地である。",
+    "detailText": "鉄鉱石はオーストラリア西部やブラジルで多く産出し、中国・日本・韓国などの製鉄国が大量に輸入する。製鉄では鉄鉱石に加えて原料炭が必要で、港湾近くの臨海製鉄所は重い原料を船で運びやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_122",
+    "subject": "地理",
+    "headline": "銅は電線・電子機器に使われ、チリやペルーが重要である。",
+    "detailText": "銅はチリ・ペルーなどアンデス地域で多く産出し、中国などの工業国で消費が大きい。電線、モーター、建設資材、再生可能エネルギー設備に使われるため、都市化や電化が進むほど需要が増えやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_123",
+    "subject": "地理",
+    "headline": "ボーキサイトはアルミニウムの原料で高温多雨地域に多い。",
+    "detailText": "ボーキサイトはギニア、オーストラリア、ブラジルなどで多く産出する。アルミニウム製錬は大量の電力を使うため、鉱石産地だけでなくカナダや中東など電力条件のよい地域でも加工される。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_124",
+    "subject": "地理",
+    "headline": "ニッケルはステンレス鋼や電池材料に使われる。",
+    "detailText": "ニッケルはインドネシア、フィリピン、ニューカレドニア、ロシアなどが重要産地である。ステンレス鋼や電池材料に使われ、インドネシアでは鉱石輸出だけでなく国内精錬を進めて付加価値を高めようとしている。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_125",
+    "subject": "地理",
+    "headline": "リチウムは充電池に使われ、豪州と南米塩湖が重要である。",
+    "detailText": "リチウムはオーストラリアの鉱山と、チリ・アルゼンチン・ボリビアの塩湖が重要である。精製や電池生産は中国・韓国・日本など東アジアの工業国に集中しやすく、電気自動車の普及で需要が拡大している。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_126",
+    "subject": "地理",
+    "headline": "コバルトは電池材料で、コンゴ民主共和国への偏りが大きい。",
+    "detailText": "コバルトはコンゴ民主共和国への偏りが大きく、銅の副産物として産出されることも多い。精錬は中国企業の関与が大きく、消費はリチウムイオン電池を使う自動車・電子機器産業に集中する。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_127",
+    "subject": "地理",
+    "headline": "レアアースはハイテク製品に必要で、中国の影響が大きい。",
+    "detailText": "レアアースは中国が採掘・分離精製で大きな比重をもつ。ネオジム磁石はEV、風力発電、スマートフォンに使われ、産出よりも分離・精製の技術と環境負荷の処理が供給網の弱点になりやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_128",
+    "subject": "地理",
+    "headline": "ウランは原子力発電の燃料で、カザフスタンなどが重要である。",
+    "detailText": "ウランはカザフスタン、カナダ、オーストラリアなどが重要産地である。燃料加工や原子力発電の利用国はフランス、日本、韓国、中国などで、資源国と発電利用国が一致しない点が特徴である。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_129",
+    "subject": "地理",
+    "headline": "金は南アフリカ・中国・オーストラリアなどで重要な貴金属である。",
+    "detailText": "金は中国、オーストラリア、ロシア、南アフリカなどで産出される。宝飾品だけでなく投資対象や電子部品にも使われ、政治不安やインフレ時には安全資産として需要が高まりやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_130",
+    "subject": "地理",
+    "headline": "銀はメキシコやペルーなどで多く産出される貴金属である。",
+    "detailText": "銀はメキシコ、ペルー、中国などが重要産地である。宝飾品のほか、電子部品、太陽光パネル、医療・化学分野にも使われるため、貴金属でありながら工業原料としての性格も強い。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_131",
+    "subject": "地理",
+    "headline": "白金は南アフリカに偏在し、自動車触媒などに使われる。",
+    "detailText": "白金族金属は南アフリカとロシアに偏在する。自動車の排ガス浄化触媒、化学工業、燃料電池に使われ、排ガス規制や自動車生産の動きが需要を左右しやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_132",
+    "subject": "地理",
+    "headline": "マンガンは鉄鋼生産に使われる合金原料である。",
+    "detailText": "マンガンは南アフリカ、オーストラリア、ガボンなどが重要産地である。鉄鋼に加えると強度や耐摩耗性が増すため、鉄鋼生産の多い中国・インド・日本などの工業国で需要が大きい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_133",
+    "subject": "地理",
+    "headline": "クロムはステンレス鋼に使われ、南アフリカなどが重要である。",
+    "detailText": "クロムは南アフリカ、カザフスタン、インドなどが重要産地である。ステンレス鋼に耐食性を与えるため、台所用品、化学設備、建材、自動車部品など幅広い工業製品に使われる。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_134",
+    "subject": "地理",
+    "headline": "亜鉛はめっきや合金に使われる非鉄金属である。",
+    "detailText": "亜鉛は中国、ペルー、オーストラリアなどで多く産出する。鉄板のめっきに使うとさびを防げるため、自動車、建材、インフラ整備と結びつき、銅との合金である真鍮の原料にもなる。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_135",
+    "subject": "地理",
+    "headline": "鉛は蓄電池などに使われる重金属である。",
+    "detailText": "鉛は中国、オーストラリア、アメリカなどで産出され、自動車用鉛蓄電池で需要が大きい。毒性が強いため、塗料や水道管での使用は規制され、リサイクルと環境管理が重要になる。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_136",
+    "subject": "地理",
+    "headline": "スズは東南アジアの鉱産資源として重要だった。",
+    "detailText": "スズはインドネシア、ミャンマー、中国、かつてのマレーシアなど東南アジアで重要だった。はんだ、めっき、合金に使われ、電子部品の接合材料として工業製品の小さな部分を支える。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_137",
+    "subject": "地理",
+    "headline": "リン鉱石は化学肥料の原料で、モロッコ周辺が重要である。",
+    "detailText": "リン鉱石はモロッコ・西サハラ周辺、中国、アメリカなどが重要産地である。リン酸肥料の原料で、消費は穀物生産の大きい中国、インド、ブラジル、アメリカなどに多い。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_138",
+    "subject": "地理",
+    "headline": "カリウム塩は肥料原料で、カナダなどが重要である。",
+    "detailText": "カリウム塩はカナダ、ロシア、ベラルーシなどの寒冷な内陸部に多い。塩化カリウムとして肥料に加工され、消費は穀物・大豆生産が大きい中国、インド、ブラジル、アメリカなどで多い。輸出港や鉄道が内陸鉱山と農業地域を結ぶ。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_139",
+    "subject": "地理",
+    "headline": "ダイヤモンドはアフリカ南部・中部の鉱産資源として重要である。",
+    "detailText": "ダイヤモンドはボツワナ、南アフリカ、コンゴ民主共和国、ロシア、カナダなどで産出する。宝石用は研磨・流通の中心地を経て消費地へ向かい、工業用は硬さを生かして切削工具や研磨材に使われる。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_140",
+    "subject": "地理",
+    "headline": "原料炭は製鉄に使う石炭で、一般炭と区別する。",
+    "detailText": "原料炭は製鉄用コークスの原料で、オーストラリア、カナダ、アメリカなどが重要な輸出国である。発電用の一般炭とは用途が異なり、鉄鉱石とともに臨海製鉄所へ運ばれる。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_141",
+    "subject": "地理",
+    "headline": "産出量と埋蔵量は同じ意味ではない。",
+    "detailText": "産出量は一定期間に実際に採掘された量、埋蔵量は現在の技術と価格で採掘可能と見込まれる量である。埋蔵量が多くても、政治不安、輸送路不足、採算性の低さで産出量が小さいことがある。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_142",
+    "subject": "地理",
+    "headline": "産出国と輸出国は国内消費量や加工の有無で一致しない。",
+    "detailText": "産出国と輸出国は一致しない。中国は石炭や鉄鉱石を多く産出しても国内消費が大きく、輸出国になりにくい。一方、オーストラリアは人口が少なく国内消費が限られるため、鉄鉱石や石炭を大量に輸出する。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_143",
+    "subject": "地理",
+    "headline": "採掘国と精製・加工国は電力や技術条件で一致しない。",
+    "detailText": "採掘国と精製・加工国は電力、技術、資本で分かれる。ギニアはボーキサイトを多く産出するが、アルミ製錬は電力が豊富なカナダ・中東・中国などでも行われる。鉱石、地金、最終製品は別の国を通る。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_144",
+    "subject": "地理",
+    "headline": "リチウム三角地帯はチリ・ボリビア・アルゼンチンの塩湖地帯である。",
+    "detailText": "リチウム三角地帯はチリ、ボリビア、アルゼンチンの塩湖地帯である。塩水を蒸発させてリチウムを取り出すため乾燥気候と結びつくが、水資源利用や先住民の生活、電池産業の需要とも衝突しやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_145",
+    "subject": "地理",
+    "headline": "資源依存国は国際価格変動の影響を受けやすい。",
+    "detailText": "資源依存国は輸出品が原油や鉱石など少数の一次産品に偏る。価格が下がると輸出収入・財政・通貨が同時に悪化しやすく、ナイジェリアの原油、ザンビアの銅などが例になる。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_146",
+    "subject": "地理",
+    "headline": "ギニアはボーキサイト資源で重要な西アフリカの国である。",
+    "detailText": "ギニアは世界有数のボーキサイト産出国で、アルミニウム原料を中国などへ輸出する。国内の電力・インフラが十分でないため、採掘した鉱石をそのまま輸出し、製錬は電力と技術をもつ国で行われやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_147",
+    "subject": "地理",
+    "headline": "カザフスタンはウラン・石油・天然ガスなどをもつ内陸資源国である。",
+    "detailText": "カザフスタンはウランの大産出国で、石油・天然ガスももつ中央アジアの内陸資源国である。輸出にはロシア方面やカスピ海方面のパイプライン・鉄道が必要で、内陸国の位置が資源貿易を左右する。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_148",
+    "subject": "地理",
+    "headline": "南アフリカは金・白金・マンガン・クロムなどの鉱産資源が豊富である。",
+    "detailText": "南アフリカは白金、金、マンガン、クロムなどが豊富で、鉱業を基盤にアフリカ有数の工業国となった。白金は自動車触媒、マンガン・クロムは鉄鋼に使われ、資源と重工業が結びつく。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_149",
+    "subject": "地理",
+    "headline": "アフリカの資源国では一次産品依存と加工度の低さが課題になりやすい。",
+    "detailText": "アフリカの資源国では、鉱石や原油を未加工で輸出し、加工品を輸入する構造が残りやすい。銅やコバルトを産出しても、精錬・電池製造・最終製品の利益は中国や先進工業国に移りやすい。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_150",
+    "subject": "地理",
+    "headline": "南米の鉱産資源はアンデス山脈と結びつける。",
+    "detailText": "南米の鉱産資源はアンデス山脈沿いに集中しやすい。チリ・ペルーの銅、ボリビアやチリのリチウムは、プレート境界の造山活動や乾燥した高原・塩湖の分布と結びつく。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_151",
+    "subject": "地理",
+    "headline": "オーストラリアは鉄鉱石・石炭・天然ガスの輸出で重要である。",
+    "detailText": "オーストラリアは鉄鉱石、石炭、天然ガスをアジアへ大量に輸出する。西部の鉄鉱石、東部の石炭、北西部のLNGが重要で、日本・中国・韓国など資源を輸入する工業国と結びつく。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_152",
+    "subject": "地理",
+    "headline": "ボーキサイトは熱帯の強い化学的風化で形成されやすい。",
+    "detailText": "ボーキサイトは高温多雨の熱帯で岩石が強く化学的風化を受け、アルミニウム成分が残ってできやすい。ギニアやブラジルの熱帯地域、オーストラリア北部などで産出が多い。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_153",
+    "subject": "地理",
+    "headline": "鉄鉱石は大量輸送されるため港湾と臨海製鉄所が重要になる。",
+    "detailText": "鉄鉱石は重量が大きく輸送費が高いため、港湾・大型船・臨海製鉄所と結びつく。日本の製鉄所は鉄鉱石をオーストラリアやブラジルから、原料炭をオーストラリアなどから輸入して沿岸で加工する。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_154",
+    "subject": "地理",
+    "headline": "銅需要は電化・都市化・再生可能エネルギーで増えやすい。",
+    "detailText": "銅は送電線、モーター、建設、電子機器に不可欠である。電気自動車や再生可能エネルギー設備は銅を多く使うため、中国、アメリカ、EUなどの工業需要がチリ・ペルーの輸出に影響する。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_155",
+    "subject": "地理",
+    "headline": "資源は用途・産地・輸送・加工地が価値を左右する。",
+    "detailText": "資源の価値は産地だけでなく、用途、輸送、加工地、消費地で決まる。ボーキサイトは製錬電力、鉄鉱石は港湾と原料炭、リチウムは精製技術と電池工場がそろって初めて高い価値をもつ。",
+    "tags": [
+      "資源",
+      "鉱産資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_156",
+    "subject": "地理",
+    "headline": "石炭は発電と製鉄に使われるがCO2排出が大きい。",
+    "detailText": "石炭は発電用の一般炭と製鉄用の原料炭に分かれる。中国・インドは国内消費が大きく、オーストラリア・インドネシアは輸出が多い。安価で安定供給しやすい一方、CO2と大気汚染の負荷が大きい。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_157",
+    "subject": "地理",
+    "headline": "原油は輸送用燃料と石油化学原料の中心である。",
+    "detailText": "石油は輸送用燃料、化学工業原料、発電燃料として使われる。中東、ロシア、アメリカなどが重要産地で、タンカーとパイプラインで運ばれる。価格変動は産油国財政と輸入国経済の両方に影響する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_158",
+    "subject": "地理",
+    "headline": "天然ガスは発電・都市ガスに使われ、石炭よりCO2排出が少ない。",
+    "detailText": "天然ガスは火力発電、都市ガス、化学工業に使われる。パイプラインで運ぶ欧州・ロシア型と、液化してLNGとして運ぶ日本・韓国型がある。石炭よりCO2排出は少ないが化石燃料である。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_159",
+    "subject": "地理",
+    "headline": "LNGは天然ガスを液化して海上輸送しやすくしたものである。",
+    "detailText": "LNGは天然ガスを約マイナス162℃で液化し、体積を小さくして専用船で運ぶ。日本、韓国、中国は輸入が多く、カタール、オーストラリア、アメリカなどが主要輸出国である。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_160",
+    "subject": "地理",
+    "headline": "OPECは産油国が原油供給や価格に影響を与える組織である。",
+    "detailText": "OPECは石油輸出国機構で、サウジアラビア、イラク、イラン、クウェート、UAEなどが関わる。加盟産油国が生産量を調整することで、原油価格や輸入国の物価・貿易収支に影響を与える。中東の産油国と国際エネルギー市場を結びつけて理解する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_161",
+    "subject": "地理",
+    "headline": "シェール資源はアメリカのエネルギー供給構造を変えた。",
+    "detailText": "シェール資源は頁岩層に含まれる石油・天然ガスで、水平掘削と水圧破砕によって開発が進んだ。アメリカではシェール革命により天然ガス・石油の生産が増え、輸入依存の低下や輸出拡大につながった。国際エネルギー市場では、中東依存の変化や天然ガス価格への影響として重要である。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_162",
+    "subject": "地理",
+    "headline": "水力発電は山地が多く降水量のある地域で有利である。",
+    "detailText": "水力発電は落差と水量を利用するため、山地が多く降水量のある地域で有利である。ノルウェー、カナダ、ブラジル、中国などで重要な電源になっている。ダムは発電だけでなく治水・灌漑にも関わるが、生態系の変化や住民移転を伴う場合がある。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_163",
+    "subject": "地理",
+    "headline": "地熱発電は火山地帯で利用しやすい。",
+    "detailText": "地熱発電は火山活動が活発な地域で利用しやすい。アイスランド、日本、ニュージーランド、インドネシア、フィリピンなどが候補地になる。天候に左右されにくい安定電源になりやすい一方、温泉利用や国立公園との調整が課題になる。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_164",
+    "subject": "地理",
+    "headline": "風力発電は強く安定した風と広い土地・海域が必要である。",
+    "detailText": "風力発電は強く安定した風が吹く沿岸、平原、山地、洋上で有利である。デンマーク、ドイツ、イギリス、中国、アメリカなどで導入が多い。発電量は風況に左右されるため、送電網、蓄電、景観、騒音への対応が必要になる。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_165",
+    "subject": "地理",
+    "headline": "太陽光発電は日射量が多い地域で有利だが出力変動がある。",
+    "detailText": "太陽光発電は日射量の多い乾燥地域や、広い土地を確保しやすい地域で有利である。中国、アメリカ、インド、スペイン、オーストラリアなどで導入が進む。昼夜や天候で発電量が変わるため、蓄電池や送電網との組み合わせが重要になる。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_166",
+    "subject": "地理",
+    "headline": "バイオ燃料は農産物や植物資源から作る燃料である。",
+    "detailText": "バイオ燃料は、サトウキビ、トウモロコシ、油やし、木材などの生物資源から作る燃料である。ブラジルのサトウキビ由来エタノールや、油脂を原料とするバイオディーゼルが代表例である。再生可能資源として扱われるが、食料生産や森林開発と競合する場合がある。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_167",
+    "subject": "地理",
+    "headline": "原子力発電は少量の燃料で大きな電力を得るが安全管理が重要である。",
+    "detailText": "原子力発電は少量のウランで大きな電力を得られ、発電時のCO2排出が少ない。フランスは原子力発電の比率が高く、日本や韓国も利用してきた。一方で事故リスク、放射性廃棄物、立地合意、安全管理が大きな課題になる。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_168",
+    "subject": "地理",
+    "headline": "再生可能エネルギーは地域条件によって適地が異なる。",
+    "detailText": "再生可能エネルギーには太陽光、風力、水力、地熱、バイオマスなどがある。太陽光は日射量、風力は風況、水力は落差と水量、地熱は火山活動、バイオマスは農林業資源に左右される。地域条件ごとの適地を押さえると、国や地域の電源構成を理解しやすい。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_169",
+    "subject": "地理",
+    "headline": "電源構成は資源条件・政策・地形・環境意識で変わる。",
+    "detailText": "電源構成は火力、水力、原子力、再生可能エネルギーの割合で国ごとに異なる。石炭・天然ガスなどの資源条件、山地と降水量、原子力政策、環境規制、送電網整備が反映される。石炭国、水力国、原子力比率の高い国を分けて整理すると特徴がつかみやすい。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_170",
+    "subject": "地理",
+    "headline": "日本は化石燃料の多くを輸入に依存する。",
+    "detailText": "日本は石油、天然ガス、石炭の多くを海外からの輸入に頼っている。LNGはオーストラリアやカタールなどから、原油は中東からの比重が大きい。島国で資源輸入を海上輸送に依存するため、海峡やシーレーンの安定がエネルギー安全保障に直結する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_171",
+    "subject": "地理",
+    "headline": "中東から日本への原油輸送はホルムズ海峡やマラッカ海峡を通る。",
+    "detailText": "中東から日本へ向かう原油・LNGの輸送では、ホルムズ海峡とマラッカ海峡が重要である。ホルムズ海峡はペルシャ湾岸の産油・ガス国の出口で、マラッカ海峡はインド洋と南シナ海を結ぶ通過点である。どちらも狭い海上交通路であり、政治的緊張や事故が輸送と価格に影響する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_172",
+    "subject": "地理",
+    "headline": "カタールは天然ガス・LNG輸出で重要な湾岸国である。",
+    "detailText": "カタールは世界有数の天然ガス資源をもち、LNG輸出で高所得化した。日本、韓国、中国など東アジアの輸入国と結びつきが強い。国土は小さく乾燥するため、食料・水・労働力の多くを外部に依存する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_173",
+    "subject": "地理",
+    "headline": "サウジアラビアは原油とOPECで重要な西アジアの産油国である。",
+    "detailText": "サウジアラビアは原油埋蔵量・輸出量が大きく、OPECの中心的存在である。石油収入で都市開発や産業多角化を進めるが、乾燥気候のため水資源は乏しく、海水淡水化への依存が大きい。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_174",
+    "subject": "地理",
+    "headline": "ロシアは石油・天然ガスを輸出する大資源国である。",
+    "detailText": "ロシアは石油・天然ガス・石炭の資源大国で、欧州や中国へパイプラインで供給してきた。シベリアの寒冷地開発、長距離輸送、港湾の凍結、国際政治が資源輸出を左右する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_175",
+    "subject": "地理",
+    "headline": "ノルウェーは北海油田・天然ガスと水力発電で重要である。",
+    "detailText": "ノルウェーは北海油田・天然ガスと水力発電で重要な国である。山がちな国土と豊富な降水により水力発電の比重が高く、北海の石油・天然ガス輸出も経済を支える。フィヨルドや寒冷な自然条件と、海洋資源の利用を結びつけて理解する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_176",
+    "subject": "地理",
+    "headline": "インドネシアは石炭・天然ガス・地熱資源が重要である。",
+    "detailText": "インドネシアは石炭、天然ガス、地熱資源が重要な島国である。火山帯に位置するため地熱利用の条件があり、石炭やLNGの輸出でも重要である。油やし、ニッケル、熱帯林開発とも結びつき、資源開発と環境問題が同時に現れやすい。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_177",
+    "subject": "地理",
+    "headline": "オーストラリアの石炭はアジア向け輸出で重要である。",
+    "detailText": "オーストラリアの石炭はアジア向け輸出で重要である。東部の炭田から産出される石炭は、日本、中国、韓国、インドなどの発電・製鉄需要と結びつく。鉄鉱石、天然ガスと並び、オーストラリアを資源輸出国として理解するうえで欠かせない。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_178",
+    "subject": "地理",
+    "headline": "脱炭素は化石燃料依存から再生可能エネルギーへ移る動きである。",
+    "detailText": "脱炭素は、化石燃料に依存したエネルギー利用から、再生可能エネルギーや低炭素電源へ移る動きである。太陽光・風力の拡大は、蓄電池、送電網、調整電源、希少金属需要を増やす。エネルギー転換は産油国、資源国、工業国の関係も変える。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_179",
+    "subject": "地理",
+    "headline": "化石燃料は地域的に偏在し、エネルギー安全保障に関わる。",
+    "detailText": "化石燃料は産地が地域的に偏在し、輸入国のエネルギー安全保障に関わる。原油は中東、天然ガスはロシア・中東・北米など、石炭は中国・インド・オーストラリアなどが重要である。輸送路、価格変動、国際政治を資源分布と結びつけて整理する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_180",
+    "subject": "地理",
+    "headline": "エネルギー統計は一次エネルギーと発電量を区別して読む。",
+    "detailText": "エネルギー統計では、一次エネルギー供給と発電量を区別して読む必要がある。一次エネルギーは石油・石炭・天然ガスなどを含む全体のエネルギー供給を示し、発電量は電気をどの電源で作ったかを示す。国のエネルギー事情を比べるときは、総量、構成比、自給率を分けて確認する。",
+    "tags": [
+      "エネルギー",
+      "資源"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_181",
+    "subject": "地理",
+    "headline": "工業立地は原料・市場・労働力・交通・政策で決まる。",
+    "detailText": "工業立地は原料費、製品輸送費、労働力、用水、電力、技術、人材、政策で決まる。セメントは石灰石産地、自動車は部品企業の集積地、半導体は水・電力・技術者のそろう地域に立地しやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_182",
+    "subject": "地理",
+    "headline": "原料立地型工業は重く安い原料の近くに立地しやすい。",
+    "detailText": "原料立地型工業は、原料が重い・かさばる・加工で重量が大きく減る場合に成立する。セメントは石灰石産地、製紙は木材・水のある地域、かつての鉄鋼は炭田や鉱山の近くに立地した。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_183",
+    "subject": "地理",
+    "headline": "市場立地型工業は消費地の近くに立地しやすい。",
+    "detailText": "市場立地型工業は、製品が重い、傷みやすい、需要地に素早く届ける必要がある場合に成立する。ビール・清涼飲料・新聞印刷・パンなどは大都市周辺に立地しやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_184",
+    "subject": "地理",
+    "headline": "臨海立地は輸入原料と製品輸送に有利である。",
+    "detailText": "臨海立地は輸入原料を大量に使う工業に向く。日本の鉄鋼は鉄鉱石と原料炭、石油化学は原油・ナフサを船で輸入するため、港湾、広い埋立地、用水、電力を備えた沿岸部に集まる。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_185",
+    "subject": "地理",
+    "headline": "鉄鋼業は鉄鉱石・原料炭・港湾・市場の条件で立地する。",
+    "detailText": "鉄鋼業は鉄鉱石と原料炭を大量に使い、製品も重い。資源国では鉱山・炭田近く、日本や韓国のような輸入国では大型港湾をもつ臨海部に製鉄所が立地しやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_186",
+    "subject": "地理",
+    "headline": "石油化学工業は原油精製とナフサをもとに臨海部で発達する。",
+    "detailText": "石油化学工業は原油を精製して得るナフサを原料に、プラスチック、合成繊維、合成ゴムなどをつくる。製油所と化学工場がパイプラインで結ばれるため、臨海コンビナートに集積する。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_187",
+    "subject": "地理",
+    "headline": "自動車工業は部品供給網と市場に近い場所で発達する。",
+    "detailText": "自動車工業はエンジン、半導体、タイヤ、ガラスなど多数の部品を組み立てる。部品メーカーの集積、輸出港、大市場への近さが重要で、アメリカ五大湖周辺、ドイツ、日本、韓国などで発達した。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_188",
+    "subject": "地理",
+    "headline": "半導体産業は高度技術・水・電力・研究人材を必要とする。",
+    "detailText": "半導体産業は大量の超純水、安定電力、クリーンルーム、高度技術者を必要とする。台湾の新竹、韓国、日本の九州、アメリカのシリコンバレー周辺などでは研究・部材・装置産業も集まる。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_189",
+    "subject": "地理",
+    "headline": "IT産業は人材・大学・資本・通信環境が集まる都市で発達しやすい。",
+    "detailText": "IT産業は原料輸送よりも技術者、大学、ベンチャー資本、通信環境が重要である。シリコンバレーは大学・企業・投資家の集積、ベンガルールは英語人材とソフトウェア開発で発展した。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_190",
+    "subject": "地理",
+    "headline": "産業構造は第一次・第二次・第三次産業の比率で読む。",
+    "detailText": "産業構造は第一次産業、第二次産業、第三次産業の割合で国の発展段階を示す。一般に所得が上がると農業比率は下がり、製造業を経て金融・情報・医療・観光などサービス業の比率が高まる。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_191",
+    "subject": "地理",
+    "headline": "第三次産業はサービス業で、都市化と所得上昇で比率が高まりやすい。",
+    "detailText": "第三次産業は商業、金融、運輸、医療、教育、観光、情報通信などのサービス業である。人口が集中し所得が高い都市ほど需要が大きく、先進国ではGDPと雇用の中心になりやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_192",
+    "subject": "地理",
+    "headline": "多国籍企業は生産・販売拠点を国境を越えて配置する。",
+    "detailText": "多国籍企業は本社、研究開発、部品生産、組み立て、販売を国境を越えて配置する。設計は先進国、組み立ては賃金の低い国、販売は大市場というように分け、貿易協定や税制も利用する。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_193",
+    "subject": "地理",
+    "headline": "国際分業は工程や産業を国ごとに分ける仕組みである。",
+    "detailText": "国際分業では、一つの製品の工程が複数国に分かれる。スマートフォンなら設計はアメリカ、部品は日本・韓国・台湾、組み立ては中国・ベトナム、販売は世界市場という形になりやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_194",
+    "subject": "地理",
+    "headline": "加工貿易は原料を輸入して加工品を輸出する貿易である。",
+    "detailText": "加工貿易は原料や部品を輸入し、国内で加工して製品を輸出する仕組みである。資源に乏しい日本は鉄鉱石・原油を輸入し、鉄鋼・機械・自動車などを輸出して工業化した。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_195",
+    "subject": "地理",
+    "headline": "工業地域は原料・市場・交通がそろう場所に集積しやすい。",
+    "detailText": "工業地域は関連企業、労働力、港湾、道路、電力、用水が集まって形成される。ルール地方は石炭とライン川、日本の太平洋ベルトは港湾と大都市市場、中国沿岸部は外資と輸出港が支えた。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_196",
+    "subject": "地理",
+    "headline": "工業化は雇用を増やし都市化を進める。",
+    "detailText": "工業化は工場雇用を生み、農村から都市への人口移動を促す。労働者が集まると住宅、商業、交通、学校も増えるが、急速すぎる都市化では公害、スラム、交通渋滞が生じる。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_197",
+    "subject": "地理",
+    "headline": "先端産業は研究開発・高度人材・大学との近さが重要である。",
+    "detailText": "先端産業は研究開発費が大きく、高度人材と大学・研究機関に近い地域で発達する。半導体、バイオ、航空宇宙、情報通信は、技術集積と知的財産が競争力を左右する。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_198",
+    "subject": "地理",
+    "headline": "労働集約型産業は賃金の低い地域へ移転しやすい。",
+    "detailText": "労働集約型産業は人件費の比重が高いため、賃金の低い地域へ移転しやすい。衣料品や電子機器組み立ては、かつて中国、現在はベトナムやバングラデシュなどでも発達している。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_199",
+    "subject": "地理",
+    "headline": "繊維工業は工業化初期に発達しやすい軽工業である。",
+    "detailText": "繊維工業は比較的少ない資本で始めやすく、工業化初期に発達しやすい。綿花産地や安価な労働力と結びつき、現在はバングラデシュ、ベトナム、中国などの衣料品輸出で重要である。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_200",
+    "subject": "地理",
+    "headline": "工業団地はインフラを整え、企業を集積させる地域である。",
+    "detailText": "工業団地は道路、電力、用水、排水、通信を整えた工場用地である。企業を近くに集めることで部品調達や物流を効率化し、地方振興や外資誘致の政策手段にもなる。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_201",
+    "subject": "地理",
+    "headline": "経済特区は税制優遇や規制緩和で外資を誘致する地域である。",
+    "detailText": "経済特区は税制優遇、規制緩和、インフラ整備で外資を呼び込む地域である。中国の深圳は香港に近い位置と安価な労働力を生かし、輸出加工からハイテク都市へ発展した。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_202",
+    "subject": "地理",
+    "headline": "産業の空洞化は工場の海外移転で国内生産や雇用が減る現象である。",
+    "detailText": "産業の空洞化は、企業が生産拠点を海外へ移し、国内工場や雇用が減る現象である。賃金上昇、円高、海外市場への接近が要因になり、国内には研究開発や高付加価値工程が残りやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_203",
+    "subject": "地理",
+    "headline": "観光業は自然景観・文化資源・交通条件で発達するサービス業である。",
+    "detailText": "観光業は自然景観、歴史文化、交通、宿泊施設、治安によって発達する。雇用と外貨を生む一方、観光客の集中は住宅価格上昇、混雑、環境負荷、地域文化の商業化を起こすことがある。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_204",
+    "subject": "地理",
+    "headline": "情報通信インフラはサービス業と先端産業の基盤である。",
+    "detailText": "情報通信インフラは高速通信網、データセンター、海底ケーブル、衛星通信などで成り立つ。金融取引、物流管理、クラウドサービス、遠隔医療を支え、都市の国際競争力にも関わる。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_205",
+    "subject": "地理",
+    "headline": "工業発展は公害や資源消費を伴うため環境対策が必要である。",
+    "detailText": "工業発展は大気汚染、水質汚濁、廃棄物、温室効果ガスを増やしやすい。先進国では公害規制で改善した例が多いが、新興国では急速な工業化と環境対策の遅れが衝突しやすい。",
+    "tags": [
+      "工業",
+      "産業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_206",
+    "subject": "地理",
+    "headline": "富士山型人口ピラミッドは多産少死へ移る前後の若年人口が多い型である。",
+    "detailText": "底辺が広く、出生率が高い国で見られやすい。将来の人口増加、教育・雇用需要の大きさを判定する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_207",
+    "subject": "地理",
+    "headline": "つぼ型人口ピラミッドは少子高齢化が進む国で見られる。",
+    "detailText": "底辺が狭く、高齢層の割合が大きい。日本や西ヨーロッパなどで、労働力不足・社会保障負担と関係する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_208",
+    "subject": "地理",
+    "headline": "つりがね型人口ピラミッドは出生率と死亡率が低下し人口が安定しやすい型である。",
+    "detailText": "年齢構成が比較的均等で、出生率・死亡率がともに低下した成熟した人口構造を示す。労働年齢人口が安定しやすい一方、高齢化へ移る前段階でもある。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_209",
+    "subject": "地理",
+    "headline": "人口総数と人口密度は別の指標である。",
+    "detailText": "人口総数が多くても国土が広ければ人口密度は低くなる。オーストラリアやカナダのように人口分布が偏る国では平均値に注意する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_210",
+    "subject": "地理",
+    "headline": "人口密度は自然条件と経済条件の両方に左右される。",
+    "detailText": "低地・温暖湿潤・水資源・交通・雇用がある地域に人口が集中しやすい。砂漠・高山・寒冷地では人口密度が低くなりやすい。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_211",
+    "subject": "地理",
+    "headline": "人口転換は多産多死から少産少死へ移る過程である。",
+    "detailText": "医療・衛生の改善で死亡率が下がり、その後に出生率が下がる。人口増加率の変化や人口ピラミッドと関係する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_212",
+    "subject": "地理",
+    "headline": "少子高齢化は労働力不足と社会保障負担を大きくする。",
+    "detailText": "出生率低下と平均寿命の伸びにより高齢者の割合が増える。都市・農村の地域差や移民政策とも関連する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_213",
+    "subject": "地理",
+    "headline": "人口爆発は死亡率低下後も出生率が高いときに起こる。",
+    "detailText": "医療や食料事情の改善で死亡率が低下し、出生率が高いままだと人口が急増する。教育・雇用・食料・都市問題と関係する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_214",
+    "subject": "地理",
+    "headline": "移民は送り出し国と受け入れ国の経済格差で起こりやすい。",
+    "detailText": "労働力不足、賃金格差、紛争、環境変化などが移動要因になる。欧米の移民問題や湾岸諸国の外国人労働者で重要である。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_215",
+    "subject": "地理",
+    "headline": "都市化は農村から都市へ人口が集中する現象である。",
+    "detailText": "工業化やサービス業の発展で雇用が都市に集まり、人口が流入する。交通渋滞、住宅不足、スラム形成などを伴うことがある。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_216",
+    "subject": "地理",
+    "headline": "メガシティは人口1000万人以上の巨大都市である。",
+    "detailText": "東京、デリー、上海、サンパウロなどが例になる。先進国では都市圏の成熟、新興国では急速な人口流入と都市問題が重要である。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_217",
+    "subject": "地理",
+    "headline": "スラムは急速な都市化で形成される不十分な居住地区である。",
+    "detailText": "住宅・上下水道・電気・医療などが不足しやすい。発展途上国の大都市で、雇用を求めた人口流入と結びつく。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_218",
+    "subject": "地理",
+    "headline": "郊外化は住宅や商業施設が都心外側へ広がる現象である。",
+    "detailText": "自動車交通や鉄道の発達により、郊外住宅地やショッピングセンターが広がる。都心の人口減少や通勤圏拡大と関連する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_219",
+    "subject": "地理",
+    "headline": "都心回帰は再開発で中心部の居住人口が増える現象である。",
+    "detailText": "マンション建設や交通利便性の高さにより、都心部に人口が戻ることがある。ジェントリフィケーションとも関係する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_220",
+    "subject": "地理",
+    "headline": "CBDは都市中心部の業務機能が集中する地区である。",
+    "detailText": "CBDにはオフィス、金融、行政、商業施設が集中し、地価が高い。昼間人口が多く夜間人口が少ないことがある。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_221",
+    "subject": "地理",
+    "headline": "ドーナツ化は中心市街地の人口が減り郊外人口が増える現象である。",
+    "detailText": "都心の地価上昇や住環境悪化により人口が郊外へ移る。郊外化と似ているが、中心部の空洞化に注目する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_222",
+    "subject": "地理",
+    "headline": "インナーシティ問題は都心周辺旧市街地の衰退である。",
+    "detailText": "古い住宅や工場跡地、失業、低所得層の集中などが問題になる。再開発やジェントリフィケーションとの比較が重要である。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_223",
+    "subject": "地理",
+    "headline": "ジェントリフィケーションは再開発で低所得住民が押し出される現象である。",
+    "detailText": "古い市街地が再開発で高級住宅地や商業地に変わると、地価や家賃が上がる。低所得住民が住み続けにくくなる点が都市問題になる。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_224",
+    "subject": "地理",
+    "headline": "ヒートアイランドは都市部が周辺より高温になる現象である。",
+    "detailText": "人工排熱、アスファルト、建物密集、緑地減少が原因になる。都市気候や環境対策の問題で重要である。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_225",
+    "subject": "地理",
+    "headline": "都市圏は中心都市と周辺の通勤・通学圏を含む地域である。",
+    "detailText": "行政上の市域より広く、交通網や昼夜間人口の流動で把握する。中心都市の雇用と郊外住宅地が鉄道・高速道路で結ばれ、通勤圏として一体化する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_226",
+    "subject": "地理",
+    "headline": "首都と最大都市が一致しない国は多い。",
+    "detailText": "アメリカはワシントンD.C.とニューヨーク、ブラジルはブラジリアとサンパウロ、オーストラリアはキャンベラとシドニーが異なる。首都は政治機能、最大都市は人口・経済機能が集中する都市であり、両者が分かれる国では都市の役割を区別する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_227",
+    "subject": "地理",
+    "headline": "人口分布は水・気候・地形などの自然条件に左右される。",
+    "detailText": "河川沿い、平野、温暖湿潤地域には人口が集まりやすい。砂漠、高山、寒冷地域では人口密度が低くなりやすい。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_228",
+    "subject": "地理",
+    "headline": "人口分布は雇用・交通・歴史などの経済社会条件にも左右される。",
+    "detailText": "港湾、工業地域、首都、交通結節点には人口が集中しやすい。自然条件だけで説明できない都市集中に注意する。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_229",
+    "subject": "地理",
+    "headline": "昼間人口は通勤・通学で中心都市に増えやすい。",
+    "detailText": "CBDや都心部では昼間人口が夜間人口を上回ることが多い。ベッドタウンでは夜間人口が多くなる。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_230",
+    "subject": "地理",
+    "headline": "都市問題は先進国と発展途上国で現れ方が異なる。",
+    "detailText": "先進国では郊外化・都心回帰・高齢化が目立ち、発展途上国ではスラム・インフラ不足・急速な人口流入が大きい。都市問題は発展段階で異なる。",
+    "tags": [
+      "人口",
+      "都市"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_231",
+    "subject": "地理",
+    "headline": "スエズ運河は地中海と紅海を結び、欧州とアジアの航路を短縮する。",
+    "detailText": "スエズ運河は地中海と紅海を結び、欧州とアジアの海上距離を短縮する。原油・コンテナ輸送の要路で、通航障害は世界貿易に影響する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_232",
+    "subject": "地理",
+    "headline": "パナマ運河は大西洋と太平洋を結び、米東岸とアジアの航路を短縮する。",
+    "detailText": "パナマ運河は大西洋と太平洋を結び、米東岸とアジアの航路を短縮する。閘門式で船を上下させ、南米南端を回る必要を減らす。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_233",
+    "subject": "地理",
+    "headline": "マラッカ海峡はインド洋と南シナ海を結ぶ重要な海上交通路である。",
+    "detailText": "マラッカ海峡はインド洋と南シナ海を結び、日本・中国・韓国と中東を結ぶ原油・LNG航路で重要である。シンガポールの港湾機能とも関係する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_234",
+    "subject": "地理",
+    "headline": "ホルムズ海峡はペルシャ湾の原油・LNG輸送の出口である。",
+    "detailText": "ホルムズ海峡はペルシャ湾の出口にあり、湾岸産油国の原油・LNG輸送に不可欠である。中東情勢は日本のエネルギー安全保障に影響する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_235",
+    "subject": "地理",
+    "headline": "ジブラルタル海峡は地中海と大西洋を結ぶ。",
+    "detailText": "ジブラルタル海峡はスペインとモロッコの間にあり、地中海と大西洋を結ぶ。スエズ運河と組み合わさり欧州・アジア航路を支える。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_236",
+    "subject": "地理",
+    "headline": "ボスポラス海峡は黒海と地中海方面を結ぶトルコの海峡である。",
+    "detailText": "ボスポラス海峡は黒海と地中海方面を結ぶトルコの海峡で、イスタンブールを貫く。黒海沿岸国の貿易・軍事・エネルギー輸送に関係する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_237",
+    "subject": "地理",
+    "headline": "シンガポールはマラッカ海峡に面する中継貿易・金融の拠点である。",
+    "detailText": "シンガポールはマラッカ海峡に近い位置を生かし、港湾・空港・金融・石油精製が集積する。天然資源より中継機能で発展した都市国家である。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_238",
+    "subject": "地理",
+    "headline": "ロッテルダムはライン川水系を後背地にもつ欧州最大級の港である。",
+    "detailText": "ロッテルダムは北海に面し、ライン川水系を通じてドイツ工業地域など欧州内陸部と結ばれる。後背地の大きさが港湾発展を支える。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_239",
+    "subject": "地理",
+    "headline": "上海は長江流域を後背地にもつ中国の巨大港湾都市である。",
+    "detailText": "上海は長江デルタに位置し、中国沿岸部の工業化と内陸部への物流を結ぶ巨大港湾都市である。長江流域の広い後背地をもつ。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_240",
+    "subject": "地理",
+    "headline": "港湾は後背地の人口・産業・交通網が大きいほど発達しやすい。",
+    "detailText": "港湾は背後に市場・工業地域・河川・鉄道・道路があるほど発達しやすい。港の規模は海岸条件だけでなく後背地の経済規模に左右される。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_241",
+    "subject": "地理",
+    "headline": "ハブ空港は乗り継ぎと国際物流の結節点である。",
+    "detailText": "ハブ空港は国際線の乗り継ぎと航空貨物の結節点である。ドバイ、シンガポール、仁川などは地理的位置と航空会社戦略で発達した。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_242",
+    "subject": "地理",
+    "headline": "コンテナ輸送は規格化により海上物流を効率化した。",
+    "detailText": "コンテナは規格化された箱で、船・鉄道・トラックの積み替えを効率化した。巨大港湾、内陸輸送網、国際分業の発達を支える。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_243",
+    "subject": "地理",
+    "headline": "貿易相手国は距離だけでなく経済規模・資源・協定で決まる。",
+    "detailText": "貿易相手国は距離だけでなく、経済規模、資源、産業構造、貿易協定で決まる。資源輸入と工業製品輸出では相手国が異なることがある。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_244",
+    "subject": "地理",
+    "headline": "一次産品輸出国は価格変動と交易条件の悪化に弱い。",
+    "detailText": "一次産品輸出国は原油・鉱産資源・農産物などに輸出が偏りやすい。国際価格が下がると財政・雇用・輸入能力に大きな影響が出る。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_245",
+    "subject": "地理",
+    "headline": "日本の加工貿易は原料輸入と工業製品輸出を基本とした。",
+    "detailText": "日本は資源が乏しいため、原料を輸入して工業製品を輸出する加工貿易で発展した。製鉄・石油化学などは港に近い臨海部に立地した。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_246",
+    "subject": "地理",
+    "headline": "日本の原油輸入は中東依存と海上交通路が重要である。",
+    "detailText": "日本の原油輸入は中東依存が大きく、ホルムズ海峡・インド洋・マラッカ海峡を通る。海上交通路の安定がエネルギー供給に直結する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_247",
+    "subject": "地理",
+    "headline": "日本の鉄鉱石輸入はオーストラリア・ブラジルなどが重要である。",
+    "detailText": "日本の鉄鉱石輸入ではオーストラリアやブラジルが重要である。大量輸送された鉄鉱石は、太平洋ベルトの臨海製鉄所で使われる。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_248",
+    "subject": "地理",
+    "headline": "日本の石炭輸入はオーストラリアなどが重要である。",
+    "detailText": "日本の石炭輸入ではオーストラリアなどが重要である。発電用の一般炭と、製鉄に使う原料炭では用途が異なる。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_249",
+    "subject": "地理",
+    "headline": "日本のLNG輸入はオーストラリア・カタールなどが重要である。",
+    "detailText": "LNGは液化天然ガスで、専用船により海上輸送される。日本では発電や都市ガスに使われ、オーストラリアやカタールなどから輸入される。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_250",
+    "subject": "地理",
+    "headline": "日本の食料輸入は穀物・飼料・油脂原料で大きい。",
+    "detailText": "日本は小麦・大豆・トウモロコシなどを海外に依存する。穀物は食用だけでなく家畜飼料にも使われ、食料自給率の低さに関係する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_251",
+    "subject": "地理",
+    "headline": "輸出額と輸出依存度は国の規模によって意味が変わる。",
+    "detailText": "輸出額は貿易の絶対規模、輸出依存度はGDPに対する輸出の割合を示す。経済規模が大きい国は輸出額が大きくても依存度が低い場合がある。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_252",
+    "subject": "地理",
+    "headline": "内陸国の貿易は港へのアクセスと隣国関係に左右される。",
+    "detailText": "内陸国は海港を持たないため、鉄道・道路・パイプラインで隣国の港へ接続する必要がある。輸送費と周辺国との関係が貿易を左右する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_253",
+    "subject": "地理",
+    "headline": "チョークポイントは狭く混雑しやすい海上交通の要所である。",
+    "detailText": "チョークポイントは狭く混雑しやすい海上交通の要所である。ホルムズ海峡、マラッカ海峡、スエズ運河、パナマ運河は世界貿易に影響する。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_254",
+    "subject": "地理",
+    "headline": "海上輸送は大量・低コスト輸送に向く。",
+    "detailText": "海上輸送は大量・低コスト輸送に向き、鉄鉱石・石炭・原油・LNG・コンテナ貨物で中心的役割をもつ。港湾・運河・海峡が物流を支える。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_255",
+    "subject": "地理",
+    "headline": "航空輸送は高価・軽量・緊急性の高い貨物に向く。",
+    "detailText": "航空輸送は速いが高コストのため、半導体・医薬品・生鮮品など高価で軽量な貨物に向く。大量で安価な資源輸送は海上輸送が中心である。",
+    "tags": [
+      "交通",
+      "貿易"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_256",
+    "subject": "地理",
+    "headline": "オーストラリアは資源輸出と乾燥内陸、沿岸人口集中が特徴である。",
+    "detailText": "オーストラリアは西部の鉄鉱石、東部の石炭、北西部の天然ガスをアジアへ輸出する資源国である。内陸は乾燥して人口密度が低く、人口と都市はシドニー・メルボルンなど南東部沿岸に集中する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_257",
+    "subject": "地理",
+    "headline": "ブラジルは大豆・鉄鉱石・コーヒーとアマゾン開発で重要である。",
+    "detailText": "ブラジルはアマゾンの熱帯雨林、セラードの大豆・肉牛、ミナスジェライス周辺の鉄鉱石が重要である。サンパウロ周辺に工業と人口が集中し、輸出農業の拡大は森林減少と結びつく。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_258",
+    "subject": "地理",
+    "headline": "チリは銅とリチウム、南北に細長い国土が特徴である。",
+    "detailText": "チリは南北に細長く、北部はアタカマ砂漠、中央部は地中海性気候、南部は冷涼湿潤である。北部では銅とリチウムが重要で、アンデス山脈と乾燥した塩湖が資源分布を支える。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_259",
+    "subject": "地理",
+    "headline": "ペルーはアンデス高地・銅資源・寒流沿岸漁業が重要である。",
+    "detailText": "ペルーは太平洋岸の乾燥地域、アンデス高地、アマゾン低地に分かれる。ペルー海流と湧昇流は漁場をつくり、アンデスでは銅などの鉱産資源が多い。エルニーニョ時には漁獲や降水が乱れやすい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_260",
+    "subject": "地理",
+    "headline": "アルゼンチンはパンパの農牧業と首都集中が特徴である。",
+    "detailText": "アルゼンチンのパンパは肥沃な草原で、小麦栽培と牛肉生産が発達する。輸出農牧業とブエノスアイレスへの人口・経済集中が特徴で、南部のパタゴニアは乾燥した牧羊地域として知られる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_261",
+    "subject": "地理",
+    "headline": "コロンビアはコーヒー・石油・アンデス地域の国である。",
+    "detailText": "コロンビアはアンデス山地、カリブ海沿岸、太平洋岸をもつ。標高差により熱帯でも冷涼な高地があり、コーヒー栽培が発達する。石油・石炭も輸出され、港湾は大西洋・太平洋の両側にある。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_262",
+    "subject": "地理",
+    "headline": "アメリカは大規模農業・先端産業・多様な資源をもつ。",
+    "detailText": "アメリカはコーンベルトのトウモロコシ、プレーリーの小麦、カリフォルニアの果樹・野菜、テキサスの石油、シリコンバレーのITなど地域分業が明瞭である。広い国土と大市場が産業多様化を支える。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_263",
+    "subject": "地理",
+    "headline": "カナダは森林・小麦・鉱産資源と人口の南部集中が特徴である。",
+    "detailText": "カナダは冷帯林の木材・紙パルプ、プレーリーの小麦、アルバータ州の石油・オイルサンド、各地の鉱産資源が重要である。寒冷な北部は人口が少なく、人口はアメリカ国境に近い南部に集中する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_264",
+    "subject": "地理",
+    "headline": "メキシコはアメリカ市場に近く、自動車などの工業が発達する。",
+    "detailText": "メキシコはアメリカ市場に近く、北部国境地帯で自動車・電機などの組み立て工業が発達する。メキシコシティは高原に立地し人口集中が大きい。石油資源や観光も経済を支える。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_265",
+    "subject": "地理",
+    "headline": "中国は人口・工業・農業・資源の地域差が大きい。",
+    "detailText": "中国は沿岸部で工業・貿易が発達し、内陸部との所得格差が大きい。華北は小麦、華中・華南は米が多く、石炭は北部・内陸に多い。人口と産業の大きさが資源消費と環境問題を拡大させる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_266",
+    "subject": "地理",
+    "headline": "インドは人口大国で、IT産業と農業の地域差が大きい。",
+    "detailText": "インドは夏の南西季節風に支えられた稲作、北西部の小麦、デカン高原の綿花が重要である。ベンガルールなどでは英語人材を背景にIT産業が発達し、人口増加と都市化も大きな特徴である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_267",
+    "subject": "地理",
+    "headline": "インドネシアは島国で火山・熱帯雨林・資源が重要である。",
+    "detailText": "インドネシアは多数の島からなる火山国で、人口はジャワ島に集中する。油やし、石炭、天然ガス、ニッケル、地熱が重要で、熱帯雨林開発とプランテーション拡大による環境問題も大きい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_268",
+    "subject": "地理",
+    "headline": "マレーシアは油やし・天然ゴム・工業化が特徴である。",
+    "detailText": "マレーシアは熱帯の商品作物である油やし・天然ゴムが重要で、マレー半島では電子工業や都市化が進む。ボルネオ島側では森林資源、天然ガス、油やし農園が目立ち、地域差が大きい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_269",
+    "subject": "地理",
+    "headline": "タイは米作と自動車・観光で重要な東南アジアの国である。",
+    "detailText": "タイはチャオプラヤ川流域の稲作、バンコクへの人口・産業集中、自動車工業、観光業が重要である。日本企業の進出で部品供給網が形成され、東南アジアの工業拠点の一つになった。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_270",
+    "subject": "地理",
+    "headline": "ベトナムは米・コーヒー・縫製・電子機器生産で重要である。",
+    "detailText": "ベトナムは紅河デルタとメコンデルタで稲作が発達し、中部高地ではコーヒー生産が多い。ドイモイ後に市場経済化が進み、安価な労働力を背景に縫製・電子機器の輸出が拡大した。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_271",
+    "subject": "地理",
+    "headline": "シンガポールは港湾・金融・中継貿易の都市国家である。",
+    "detailText": "シンガポールはマラッカ海峡に近い都市国家で、港湾・航空・金融・石油精製・中継貿易が発達する。天然資源や広い農地は乏しいが、交通結節点と高度人材で高所得経済を形成した。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_272",
+    "subject": "地理",
+    "headline": "韓国は重化学工業・電子産業が発達した輸出工業国である。",
+    "detailText": "韓国は資源に乏しいが、輸入原料を加工して鉄鋼、造船、自動車、半導体、電子機器を輸出する工業国である。人口と政治・経済機能はソウル首都圏に集中し、港湾都市釜山も重要である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_273",
+    "subject": "地理",
+    "headline": "サウジアラビアは原油輸出と乾燥気候、イスラム教の中心地で重要である。",
+    "detailText": "サウジアラビアは世界有数の原油輸出国で、OPECの中心国の一つである。国土の多くは乾燥地域で、都市生活と農業には地下水や海水淡水化が関わる。メッカ・メディナはイスラム教の聖地である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_274",
+    "subject": "地理",
+    "headline": "カタールは天然ガス・LNG輸出で高所得な湾岸国である。",
+    "detailText": "カタールはペルシャ湾岸の小国だが、天然ガスとLNG輸出で高所得化した。国内人口に対して外国人労働者の割合が高く、エネルギー収入が都市開発、インフラ、航空・金融サービスを支えている。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_275",
+    "subject": "地理",
+    "headline": "UAEは石油収入とドバイの物流・金融・観光で発展した。",
+    "detailText": "UAEではアブダビが石油収入を基盤にし、ドバイは港湾、航空、金融、観光、不動産で発展した。乾燥地域の大都市化は海水淡水化、冷房用電力、外国人労働力に強く依存する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_276",
+    "subject": "地理",
+    "headline": "トルコは欧州とアジアの結節点で、海峡と工業が重要である。",
+    "detailText": "トルコはヨーロッパとアジアを結ぶ位置にあり、ボスポラス海峡が黒海と地中海方面をつなぐ。イスタンブールは交通・商業の中心で、繊維・自動車工業も発達する。地震の多いプレート境界地域でもある。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_277",
+    "subject": "地理",
+    "headline": "ロシアは広大な寒冷地域と石油・天然ガス資源が特徴である。",
+    "detailText": "ロシアは西部に人口と工業が集中し、シベリアには石油・天然ガス・石炭・森林などの資源が多い。寒冷な気候と長距離輸送が開発の制約となり、パイプラインや鉄道が資源輸出を支える。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_278",
+    "subject": "地理",
+    "headline": "ドイツは自動車・機械・化学工業が発達するEUの中心国である。",
+    "detailText": "ドイツはライン川交通とルール地方の工業を背景に、自動車、機械、化学工業が発達した。EUの中心的経済国で、輸出工業が強い一方、脱原発や再生可能エネルギー拡大などエネルギー政策も特徴である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_279",
+    "subject": "地理",
+    "headline": "フランスは農業・航空宇宙・原子力発電で重要である。",
+    "detailText": "フランスは西ヨーロッパの農業大国で、小麦、ワイン用ぶどう、酪農が重要である。パリへの一極集中が強く、航空宇宙産業や観光業も発達する。電源では原子力発電の比率が高い。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_280",
+    "subject": "地理",
+    "headline": "イギリスは産業革命発祥地で金融・サービス業が発達する。",
+    "detailText": "イギリスは産業革命発祥地で、かつては石炭・鉄鋼・綿工業が発達した。現在はロンドンの金融、保険、情報サービスの比重が高い。北海油田はエネルギー供給に関わり、EU離脱後は欧州との貿易制度が変化した。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_281",
+    "subject": "地理",
+    "headline": "イタリアは北部工業と南北格差、地中海式農業が特徴である。",
+    "detailText": "イタリアは北部で機械・自動車・ファッションなどの工業が発達し、南部は相対的に農業比重が高く所得も低い。地中海性気候を生かしたぶどう、オリーブ、柑橘類の栽培も重要である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_282",
+    "subject": "地理",
+    "headline": "オランダは園芸農業・酪農・ロッテルダム港で重要である。",
+    "detailText": "オランダは低湿地を干拓し、堤防と排水で国土を管理してきた。温室園芸、花卉、酪農は高い技術で生産性が高い。ロッテルダム港はライン川を通じてドイツなど欧州内陸部と結びつく。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_283",
+    "subject": "地理",
+    "headline": "ノルウェーはフィヨルド・水力・北海油田で重要である。",
+    "detailText": "ノルウェーはフィヨルドの海岸、山がちな国土、豊富な降水を背景に水力発電が発達する。北海の石油・天然ガス、漁業、海運も重要で、寒冷な自然条件と海洋利用が経済を支える。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_284",
+    "subject": "地理",
+    "headline": "スイスは山岳国で精密機械・金融・観光が発達する。",
+    "detailText": "スイスはアルプスの山岳国で、酪農、観光、精密機械、医薬品、金融が発達する。内陸国で資源は少ないが、高度人材と高付加価値産業により、原料大量消費型ではない経済を形成している。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_285",
+    "subject": "地理",
+    "headline": "スペインは地中海式農業・観光・再生可能エネルギーが重要である。",
+    "detailText": "スペインは地中海沿岸でオリーブ、ぶどう、柑橘類の栽培と観光が発達する。内陸部は乾燥し人口密度が低めで、マドリードと沿岸都市に人口・産業が集まりやすい。風力・太陽光発電も重要である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_286",
+    "subject": "地理",
+    "headline": "南アフリカは鉱産資源とアフリカ有数の工業力をもつ。",
+    "detailText": "南アフリカは金、白金、マンガン、クロムなどの鉱産資源に恵まれ、アフリカ有数の工業力をもつ。ヨハネスブルク周辺の鉱工業、アパルトヘイトの歴史、都市内部の所得格差が特徴である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_287",
+    "subject": "地理",
+    "headline": "エジプトはナイル川沿いに人口と農業が集中する。",
+    "detailText": "エジプトは国土の大半が砂漠で、ナイル川沿いとデルタに農地・人口・都市が集中する。アスワンハイダムは灌漑と発電に関わり、スエズ運河は地中海と紅海を結ぶ国際交通路である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_288",
+    "subject": "地理",
+    "headline": "ナイジェリアはアフリカ有数の人口大国で原油も重要である。",
+    "detailText": "ナイジェリアはアフリカ有数の人口大国で、南部のニジェールデルタでは原油生産が重要である。ラゴスなどで急速な都市化が進み、民族・宗教の多様性、原油依存、貧富の差が政治社会問題と結びつく。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_289",
+    "subject": "地理",
+    "headline": "コンゴ民主共和国はコバルトなど鉱産資源が豊富である。",
+    "detailText": "コンゴ民主共和国は銅とコバルトが豊富で、電池材料の供給国として重要である。内陸の広大な国土、熱帯雨林、交通インフラ不足、政治的不安定が資源開発と輸出の制約になりやすい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_290",
+    "subject": "地理",
+    "headline": "ギニアはボーキサイト採掘国だが製錬国とは限らない。",
+    "detailText": "ギニアはボーキサイト採掘国として重要だが、アルミニウム製錬は大量の電力を必要とするため国内で完結しにくい。鉱石は中国などへ輸出され、製錬・加工・消費は別の国で行われることが多い。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_291",
+    "subject": "地理",
+    "headline": "モロッコはリン鉱石と地中海・大西洋に面する位置が重要である。",
+    "detailText": "モロッコはリン鉱石の大産地で、リン酸肥料の供給地として重要である。地中海と大西洋に面し、ヨーロッパ市場に近い。乾燥地域が多いが、灌漑農業、観光、繊維工業も経済を支える。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_292",
+    "subject": "地理",
+    "headline": "ケニアは茶・園芸作物・観光と東アフリカの交通拠点で重要である。",
+    "detailText": "ケニアは東アフリカ高原の冷涼な気候を生かし、茶や花卉の輸出が多い。サファリ観光も外貨収入となり、モンバサ港はウガンダなど内陸国への物流拠点として機能する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_293",
+    "subject": "地理",
+    "headline": "エチオピアは高原国でコーヒーと人口増加が重要である。",
+    "detailText": "エチオピアは東アフリカ高原に人口が集中し、低緯度でも標高により比較的冷涼な地域がある。コーヒーの原産地として知られ、内陸国のため輸出入ではジブチなど周辺国の港湾に依存する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_294",
+    "subject": "地理",
+    "headline": "ニュージーランドは酪農・羊毛・地熱・氷河地形が重要である。",
+    "detailText": "ニュージーランドは温帯の海洋性気候を背景に、酪農、羊毛、肉類の輸出が発達する。南島にはフィヨルドや氷河地形があり、地熱発電や観光も重要である。人口は北島に多い。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_295",
+    "subject": "地理",
+    "headline": "カザフスタンは中央アジアの内陸資源国である。",
+    "detailText": "カザフスタンは中央アジアの内陸国で、ウラン、石油、天然ガス、小麦が重要である。乾燥した草原・ステップが広がり、輸出にはロシア方面、中国方面、カスピ海方面の鉄道・パイプラインが関わる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_296",
+    "subject": "地理",
+    "headline": "ウクライナは黒土地帯の小麦と鉄鉱石・工業地域が重要である。",
+    "detailText": "ウクライナは肥沃な黒土チェルノーゼムを生かした小麦・トウモロコシ生産が重要である。ドンバスなどの工業地域、鉄鉱石、黒海港湾も経済を支え、穀物輸出は世界の食料供給に影響する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_297",
+    "subject": "地理",
+    "headline": "バングラデシュはガンジスデルタの人口密度と縫製業が重要である。",
+    "detailText": "バングラデシュはガンジス・ブラマプトラ川デルタに人口が密集し、洪水やサイクロンのリスクが高い。安価な労働力を背景に縫製業が発達し、衣料品輸出が経済の柱になっている。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_298",
+    "subject": "地理",
+    "headline": "パキスタンはインダス川流域の灌漑農業と綿花が重要である。",
+    "detailText": "パキスタンは乾燥地域が多いが、インダス川の灌漑により小麦、米、綿花を栽培する。綿花は繊維工業と結びつき、人口はパンジャブ州やカラチなどに集中しやすい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_299",
+    "subject": "地理",
+    "headline": "イランは石油・天然ガスと乾燥地域の高原国家である。",
+    "detailText": "イランはペルシャ湾に面する石油・天然ガス資源国で、高原と乾燥気候が広い。水資源制約、イスラム文化、ホルムズ海峡に近い位置が重要で、原油輸出と国際政治の影響を受けやすい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_300",
+    "subject": "地理",
+    "headline": "イラクはチグリス・ユーフラテス川と原油資源が重要である。",
+    "detailText": "イラクはチグリス川・ユーフラテス川流域に古くから灌漑農業が発達した。現代では原油資源が経済の柱で、乾燥地域の水利用、民族・宗派対立、ペルシャ湾方面への輸出路が重要である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_301",
+    "subject": "地理",
+    "headline": "フィリピンは島国で出稼ぎ労働者と都市集中が重要である。",
+    "detailText": "フィリピンは多数の島からなる国で、台風や火山災害を受けやすい。マニラへの人口集中、英語人材、海外出稼ぎ労働者からの送金、電子部品産業が経済と人口移動に関わる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_302",
+    "subject": "地理",
+    "headline": "ミャンマーは米作・天然ガス・民族多様性が重要である。",
+    "detailText": "ミャンマーはイラワジ川流域で稲作が行われ、天然ガスや宝石などの資源ももつ。東南アジア大陸部の西側に位置し、民族多様性、政治情勢、港湾と内陸交通が経済発展に影響する。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_303",
+    "subject": "地理",
+    "headline": "スリランカは茶の輸出とインド洋の海上交通で重要である。",
+    "detailText": "スリランカはインド洋に浮かぶ島国で、高地の茶プランテーションが有名である。コロンボなどの港湾は海上交通と関わり、モンスーンによる降水、観光業、民族・宗教の多様性も特徴である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_304",
+    "subject": "地理",
+    "headline": "モンゴルは乾燥草原の遊牧と鉱産資源が重要である。",
+    "detailText": "モンゴルは乾燥した草原が広がり、遊牧と牧畜が伝統的に重要である。銅・石炭などの鉱産資源を中国向けに輸出し、人口は首都ウランバートルに集中して都市問題も生じている。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_305",
+    "subject": "地理",
+    "headline": "デンマークは酪農・養豚・風力発電が重要である。",
+    "detailText": "デンマークは平坦な国土と海に囲まれた条件を生かし、酪農、養豚、風力発電が発達する。農畜産物の加工輸出が多く、北海沿岸の風を利用した再生可能エネルギー政策も進んでいる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_306",
+    "subject": "地理",
+    "headline": "スウェーデンは森林・鉄鉱石・機械工業が重要である。",
+    "detailText": "スウェーデンは北部の鉄鉱石、冷帯の森林資源、機械・自動車・通信機器などの工業が重要である。人口は比較的温暖な南部に多く、福祉国家と高付加価値産業で知られる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_307",
+    "subject": "地理",
+    "headline": "フィンランドは森林資源と紙・パルプ、情報通信産業が重要である。",
+    "detailText": "フィンランドは冷帯の針葉樹林を背景に、林業、紙・パルプ、木材加工が発達した。教育水準の高さと情報通信産業も特徴で、人口は南部のヘルシンキ周辺に集中しやすい。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_308",
+    "subject": "地理",
+    "headline": "ベルギーはEU機関と交通結節点、工業地域で重要である。",
+    "detailText": "ベルギーは北海とライン川流域に近く、物流と工業の結節点になった。ブリュッセルにはEU関連機関が集まり、アントワープ港は化学工業・貿易の拠点として重要である。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_309",
+    "subject": "地理",
+    "headline": "ボリビアはアンデス高地とリチウム資源で重要である。",
+    "detailText": "ボリビアはアンデス高地に都市が多く、内陸国であるため輸出入に周辺国の港湾を利用する。ウユニ塩湖周辺のリチウム資源が注目されるが、輸送路、精製技術、水資源が課題になる。",
+    "tags": [
+      "国別",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_310",
+    "subject": "地理",
+    "headline": "モンスーンアジアは夏の多雨と稲作・高人口密度が特徴である。",
+    "detailText": "南アジア・東南アジア・東アジアでは季節風が降水に大きく影響する。稲作、河川デルタ、人口集中が相互に関係する。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_311",
+    "subject": "地理",
+    "headline": "東南アジアは島しょ部と大陸部で自然・産業が異なる。",
+    "detailText": "島しょ部は火山・熱帯雨林・資源、大陸部はメコン川など大河川流域の稲作が目立つ。ASEAN域内では工業化とプランテーション農業も進む。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_312",
+    "subject": "地理",
+    "headline": "中東は乾燥気候・石油・イスラム教・水資源が重要である。",
+    "detailText": "湾岸の産油国は原油・天然ガス収入で都市化し、内陸や非産油国では水不足、農業制約、出稼ぎ労働への依存が目立つ。原油輸送、海峡、水資源、都市開発が重要である。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_313",
+    "subject": "地理",
+    "headline": "サハラ以南アフリカは資源・人口増加・都市化の地域差が大きい。",
+    "detailText": "鉱産資源国、農業地域、乾燥地域、熱帯雨林地域が併存し、地域によって輸出品と人口分布が大きく異なる。一次産品依存や都市問題も重要である。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_314",
+    "subject": "地理",
+    "headline": "ラテンアメリカは大土地所有・資源輸出・都市集中が特徴である。",
+    "detailText": "アンデスの鉱産資源、パンパの農牧業、アマゾン開発、首都・大都市への人口集中が相互に関係する。ラテンアメリカを理解するには、植民地期から続く土地所有、一次産品輸出、急速な都市化を結びつける必要がある。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_315",
+    "subject": "地理",
+    "headline": "EUは域内統合により人・物・資本の移動が活発である。",
+    "detailText": "共通市場により人・物・資本の移動が進み、共通通貨ユーロを使う国もある。域内の経済格差、移民、環境政策、農業補助金が政治課題になる。加盟国すべてがユーロ使用国ではない。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_316",
+    "subject": "地理",
+    "headline": "ASEANは東南アジアの地域協力で貿易・投資・分業が進む。",
+    "detailText": "シンガポールは物流・金融、タイは自動車、ベトナムは縫製・電子、インドネシアは資源の比重が大きい。域内で産業の役割分担が進む。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_317",
+    "subject": "地理",
+    "headline": "北欧は福祉国家・再生可能エネルギー・高緯度の自然条件が特徴である。",
+    "detailText": "ノルウェーは水力・石油、スウェーデンとフィンランドは森林資源、デンマークは風力と農畜産が特徴である。高緯度でも国ごとに産業が異なる。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_318",
+    "subject": "地理",
+    "headline": "地中海地域は夏乾燥の気候と観光・果樹栽培が重要である。",
+    "detailText": "オリーブ、ぶどう、柑橘類、小麦、観光業が特徴である。水不足や森林火災も地中海性気候と関係する。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_319",
+    "subject": "地理",
+    "headline": "中央アジアは乾燥気候・内陸性・資源・灌漑農業が重要である。",
+    "detailText": "乾燥した内陸地域が広く、カザフスタンの資源、ウズベキスタン周辺の綿花、アラル海問題が代表的である。港へのアクセスは周辺国との関係に左右される。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_320",
+    "subject": "地理",
+    "headline": "南アジアはモンスーン・人口大国・宗教文化の多様性が重要である。",
+    "detailText": "モンスーンが稲作と洪水に関わり、インドではIT産業、パキスタンでは綿花、バングラデシュでは縫製業が重要である。宗教・言語も多様である。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_321",
+    "subject": "地理",
+    "headline": "東アジアは工業化と人口集中、季節風気候が重要である。",
+    "detailText": "日本・中国・韓国・台湾などで、沿岸工業地域、貿易、稲作、少子高齢化や都市化を比較される。東アジアは人口規模が大きく、沿岸部の工業化と内陸部・農村部との差も重要な地域差になる。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_322",
+    "subject": "地理",
+    "headline": "西ヨーロッパは偏西風・暖流・工業化・EU統合が重要である。",
+    "detailText": "西岸海洋性気候、ライン川水系、歴史的な工業地域、サービス経済、EUの地域統合が相互に関係する。自然条件と歴史的工業化、国境を越えた経済統合が重なって、西ヨーロッパの地域性をつくっている。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_323",
+    "subject": "地理",
+    "headline": "北アメリカは大規模農業・資源・先端産業・都市圏が重要である。",
+    "detailText": "アメリカは農業地域・シェール資源・先端産業が多様で、カナダは森林・小麦・鉱産資源と南部人口集中が特徴である。移民と都市圏の発達も大きい。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_324",
+    "subject": "地理",
+    "headline": "オセアニアは乾燥大陸の豪州と海洋性のニュージーランドを区別する。",
+    "detailText": "オーストラリアは資源・乾燥・沿岸人口集中、ニュージーランドは酪農・牧畜・氷河地形が重要である。同じオセアニアでも、オーストラリアは乾燥と資源、ニュージーランドは湿潤な気候と牧畜・氷河地形が中心になる。",
+    "tags": [
+      "地域",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_325",
+    "subject": "地理",
+    "headline": "等高線は間隔が狭いほど急斜面を示す。",
+    "detailText": "等高線の間隔、閉じた線、谷線・尾根線を判定する。地形図では土地利用や集落位置と合わせて、扇状地・段丘・谷底平野などを判定する。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_326",
+    "subject": "地理",
+    "headline": "縮尺は地図上の長さと実際の距離の関係を示す。",
+    "detailText": "縮尺が大きい地図ほど狭い範囲を詳しく表し、縮尺が小さい地図ほど広い範囲を粗く表す。距離計算では単位換算に注意する。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_327",
+    "subject": "地理",
+    "headline": "緯度は気温・太陽高度・昼夜の長さに関係する。",
+    "detailText": "低緯度ほど太陽高度が高く高温になりやすい。高緯度では冬の寒さや白夜・極夜が問題になる。気候判定の基本軸である。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_328",
+    "subject": "地理",
+    "headline": "経度は時差と標準時の理解に関係する。",
+    "detailText": "地球は24時間で360度回転するため、経度15度で1時間の時差が生じる。東へ行くほど時刻は進み、西へ行くほど遅れる。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_329",
+    "subject": "地理",
+    "headline": "階級区分図は割合を示すことが多く、総量の大小とは限らない。",
+    "detailText": "階級区分図は色の濃淡が実数か割合かで意味が変わる。人口総数と人口密度のように、似た主題でも分布の読み取りは大きく異なる。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_330",
+    "subject": "地理",
+    "headline": "円グラフは構成比を見る図で、総量の比較には向かない。",
+    "detailText": "円グラフは全体に占める構成比を示す。複数の円グラフを比べる場合、円の大きさが総量を表す設定でなければ総量比較には使えない。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_331",
+    "subject": "地理",
+    "headline": "三大穀物は米・小麦・トウモロコシである。",
+    "detailText": "米は高温多雨のアジア、小麦は温帯や乾燥気味の地域、トウモロコシは飼料・食料・バイオ燃料として重要である。生産量・輸出量・消費量は一致せず、人口大国では国内消費が大きくなる。",
+    "tags": [
+      "農業",
+      "食料"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_332",
+    "subject": "地理",
+    "headline": "チェルノーゼムは黒色で肥沃な土壌で小麦栽培に向く。",
+    "detailText": "ウクライナからロシア南部、北米プレーリーなどの草原地域に見られる。企業的穀物農業や世界の穀倉地帯と関係する。",
+    "tags": [
+      "農業",
+      "土壌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_333",
+    "subject": "地理",
+    "headline": "ラトソルは熱帯の強い風化で養分が流出しやすい赤色土である。",
+    "detailText": "高温多雨地域では化学的風化と溶脱が進み、鉄やアルミニウム分を含む赤色土になりやすい。養分が流出しやすく、焼畑やプランテーションと関係する。",
+    "tags": [
+      "気候",
+      "土壌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_334",
+    "subject": "地理",
+    "headline": "ポドゾルは冷帯の針葉樹林下に見られる酸性で灰白色の土壌である。",
+    "detailText": "冷帯の針葉樹林下では有機物の分解が遅く、酸性化と溶脱により灰白色の層ができやすい。タイガの林業と農業の制約に関わる。",
+    "tags": [
+      "気候",
+      "土壌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_335",
+    "subject": "地理",
+    "headline": "プレーリーは北米の温帯草原で企業的穀物農業と結びつく。",
+    "detailText": "北米内陸の温帯草原で、肥沃な黒色土を背景に小麦・トウモロコシ・大豆の大規模栽培が行われる。機械化された企業的農業と結びつく。",
+    "tags": [
+      "農業",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_336",
+    "subject": "地理",
+    "headline": "パンパはアルゼンチンの温帯草原で小麦と牧畜が重要である。",
+    "detailText": "ブエノスアイレス周辺に広がり、牛肉・小麦などの生産と輸出に関係する。大土地所有制や輸出向け農牧業の歴史と結びつく。",
+    "tags": [
+      "農業",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_337",
+    "subject": "地理",
+    "headline": "セラードはブラジルのサバナ地域で大豆栽培が拡大した。",
+    "detailText": "土壌改良や品種改良により農業開発が進み、大豆や肉牛生産が拡大した。農地拡大は輸出増加をもたらす一方、森林・生態系への圧力を強める。",
+    "tags": [
+      "農業",
+      "地誌"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_338",
+    "subject": "地理",
+    "headline": "アラル海縮小は中央アジアの過剰な灌漑と関係する。",
+    "detailText": "綿花栽培などのために河川水を大量利用した結果、湖面が縮小し、塩害や漁業衰退が起こった。灌漑農業の負の例である。",
+    "tags": [
+      "環境",
+      "農業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_339",
+    "subject": "地理",
+    "headline": "酸性雨は化石燃料の燃焼で出る硫黄酸化物・窒素酸化物と関係する。",
+    "detailText": "工業地域や都市から排出された大気汚染物質が雨に溶け、森林や湖沼、建造物に被害を与える。越境汚染としても重要である。",
+    "tags": [
+      "環境",
+      "工業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_340",
+    "subject": "地理",
+    "headline": "砂漠化は乾燥地域で土地の生産力が低下する現象である。",
+    "detailText": "過放牧、過耕作、森林伐採、干ばつなどで植生が失われ、土壌侵食や農牧業の衰退が起こる。サヘルでは人口増加が土地利用の圧力を強める。",
+    "tags": [
+      "環境",
+      "気候"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_341",
+    "subject": "地理",
+    "headline": "熱帯林減少は焼畑・牧場開発・商業伐採・プランテーションと関係する。",
+    "detailText": "アマゾンや東南アジアで問題になり、生物多様性の低下や二酸化炭素吸収量の減少につながる。熱帯林減少は、農地・牧場・木材・輸出作物の需要と結びつき、地域経済と地球環境の両方に影響する。",
+    "tags": [
+      "環境",
+      "農業"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_342",
+    "subject": "地理",
+    "headline": "サヘルはサハラ砂漠南縁の半乾燥地域である。",
+    "detailText": "サハラ砂漠の南縁に広がる半乾燥地域で、降水量の年変動が大きい。干ばつ、砂漠化、遊牧民と農耕民の土地利用競合が起こりやすい。",
+    "tags": [
+      "地域",
+      "環境"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_343",
+    "subject": "地理",
+    "headline": "ツンドラ地域の開発では永久凍土の融解とインフラへの影響に注意する。",
+    "detailText": "永久凍土の融解により、道路・建物・パイプラインの地盤が不安定になる。高緯度地域の資源開発では、寒冷環境と温暖化の影響が同時に問題になる。",
+    "tags": [
+      "気候",
+      "環境"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_344",
+    "subject": "地理",
+    "headline": "人口増加率は出生率と死亡率、移動の影響を受ける。",
+    "detailText": "自然増加率だけでなく、移民による社会増減も人口変化に影響する。人口統計では割合と実数、年齢構成を合わせて判定する。",
+    "tags": [
+      "人口",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  },
+  {
+    "id": "geo_345",
+    "subject": "地理",
+    "headline": "GDPと一人当たりGDPは国の経済規模と生活水準を分けて見る指標である。",
+    "detailText": "GDP総額は国全体の経済規模を示し、一人当たりGDPは人口で割った平均的な豊かさを示す。人口大国では総額が大きくても一人当たりが低い場合がある。",
+    "tags": [
+      "資料読解",
+      "統計"
+    ],
+    "isSent": false,
+    "isFavorite": false,
+    "isResent": false
+  }
+]
